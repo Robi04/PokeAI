@@ -1,7 +1,7 @@
 # PokeAI
 PokeAI is a Web Interface using React that works exactly like ChatGPT but that works fully locally so with 100% privacy !!!
 
-<img src="./src/assets/vid1.mov">
+<img src="./src/assets/vid1.mp4">
 
 ## Why would you use this ?
 - Learn to download/run LLMs on your own computer using llama.cpp or ollama
