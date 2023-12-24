@@ -1,0 +1,11 @@
+FROM llama2:13b
+TEMPLATE """[INST] {{ if and .First .System }}<<SYS>>{{ .System }}<</SYS>>
+
+{{ end }}{{ .Prompt }} [/INST] """
+SYSTEM """"""
+PARAMETER stop [INST]
+PARAMETER stop [/INST]
+PARAMETER stop <<SYS>>
+PARAMETER stop <</SYS>>
+
+SYSTEM You are PokeAI an assistant

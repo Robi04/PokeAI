@@ -1,0 +1,136 @@
+body {
+  font-family: Arial, sans-serif;
+  /* height: 97vh;  */
+  background-color: #eaeaea;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+}
+
+#app {
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+#inputContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  top: 90vh;
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 2;
+}
+
+#inputContainer::after {
+  /* content: '';
+  position: fixed;
+  top: 34px;
+  right: -169px;
+  width: 405vw;
+  height: 122px;
+  border-radius: 19.5px;
+  background-size: cover;
+  background-color: #eaeaea; */
+}
+
+textarea {
+  padding: 20px;
+  width: 60vw;
+  resize: none;
+}
+
+button {
+  margin-left: -105px;
+  display: block;
+  width: 100px;
+  height: 40px;
+  border-radius: 20px;
+
+  background-color: rgba(51, 51, 51, 0.05);
+  border-radius: 8px;
+  border-width: 0;
+  color: #333333;
+  cursor: pointer;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+}
+
+.message {
+  /* border: 1px solid black; */
+  padding: 10px;
+  word-wrap: break-word;
+}
+
+.conversation {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60vw;
+  margin-bottom: 75px;
+}
+
+h1 {
+  margin: 20px;
+  position: sticky;
+  opacity: 0.7;
+  font-family: monospace;
+  font-size: 42px;
+  top: 30px;
+  /* left: 50vw;
+  transform: translateX(-50%); */
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.user::after {
+  content: "";
+  position: static;
+  display: inline-block;
+  margin-left: 5px;
+  top: 3px;
+  right: 66px;
+  width: 20px;
+  height: 20px;
+  border-radius: 19.5px;
+  background-image: url("./assets/dressor.png");
+  background-size: cover;
+}
+
+.pokeAI::after {
+  content: "";
+  position: static;
+  display: inline-block;
+  margin-left: 5px;
+  top: 3px;
+  right: 90px;
+  width: 20px;
+  height: 20px;
+  border-radius: 19.5px;
+  background-image: url("./assets/PokeAI.png");
+  background-size: cover;
+}
+
+.code {
+  font-family: monospace;
+  font-size: 14px;
+  color: #333333;
+  background-color: rgba(51, 51, 51, 0.05);
+  border-radius: 8px;
+  border-width: 0;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.message-type {
+  font-weight: bold;
+  color: #555;
+  margin-right: 8px;
+}
