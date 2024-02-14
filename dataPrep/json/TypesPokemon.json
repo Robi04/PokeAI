@@ -1,0 +1,1975 @@
+[
+  {
+    "prompt": "What's the type of bulbasaur?",
+    "answer": "bulbasaur is agrass/poison type"
+  },
+  {
+    "prompt": "What's the type of ivysaur?",
+    "answer": "ivysaur is agrass/poison type"
+  },
+  {
+    "prompt": "What's the type of venusaur?",
+    "answer": "venusaur is agrass/poison type"
+  },
+  {
+    "prompt": "What's the type of charmander?",
+    "answer": "The type of charmander is fire"
+  },
+  {
+    "prompt": "What's the type of charmeleon?",
+    "answer": "The type of charmeleon is fire"
+  },
+  {
+    "prompt": "What's the type of charizard?",
+    "answer": "charizard is afire/flying type"
+  },
+  {
+    "prompt": "What's the type of squirtle?",
+    "answer": "The type of squirtle is water"
+  },
+  {
+    "prompt": "What's the type of wartortle?",
+    "answer": "The type of wartortle is water"
+  },
+  {
+    "prompt": "What's the type of blastoise?",
+    "answer": "The type of blastoise is water"
+  },
+  {
+    "prompt": "What's the type of caterpie?",
+    "answer": "The type of caterpie is bug"
+  },
+  {
+    "prompt": "What's the type of metapod?",
+    "answer": "The type of metapod is bug"
+  },
+  {
+    "prompt": "What's the type of butterfree?",
+    "answer": "butterfree is abug/flying type"
+  },
+  {
+    "prompt": "What's the type of weedle?",
+    "answer": "weedle is abug/poison type"
+  },
+  {
+    "prompt": "What's the type of kakuna?",
+    "answer": "kakuna is abug/poison type"
+  },
+  {
+    "prompt": "What's the type of beedrill?",
+    "answer": "beedrill is abug/poison type"
+  },
+  {
+    "prompt": "What's the type of pidgey?",
+    "answer": "pidgey is anormal/flying type"
+  },
+  {
+    "prompt": "What's the type of pidgeotto?",
+    "answer": "pidgeotto is anormal/flying type"
+  },
+  {
+    "prompt": "What's the type of pidgeot?",
+    "answer": "pidgeot is anormal/flying type"
+  },
+  {
+    "prompt": "What's the type of rattata?",
+    "answer": "The type of rattata is normal"
+  },
+  {
+    "prompt": "What's the type of raticate?",
+    "answer": "The type of raticate is normal"
+  },
+  {
+    "prompt": "What's the type of spearow?",
+    "answer": "spearow is anormal/flying type"
+  },
+  {
+    "prompt": "What's the type of fearow?",
+    "answer": "fearow is anormal/flying type"
+  },
+  {
+    "prompt": "What's the type of ekans?",
+    "answer": "The type of ekans is poison"
+  },
+  {
+    "prompt": "What's the type of arbok?",
+    "answer": "The type of arbok is poison"
+  },
+  {
+    "prompt": "What's the type of pikachu?",
+    "answer": "The type of pikachu is electric"
+  },
+  {
+    "prompt": "What's the type of raichu?",
+    "answer": "The type of raichu is electric"
+  },
+  {
+    "prompt": "What's the type of sandshrew?",
+    "answer": "The type of sandshrew is ground"
+  },
+  {
+    "prompt": "What's the type of sandslash?",
+    "answer": "The type of sandslash is ground"
+  },
+  {
+    "prompt": "What's the type of nidoran-f?",
+    "answer": "The type of nidoran-f is poison"
+  },
+  {
+    "prompt": "What's the type of nidorina?",
+    "answer": "The type of nidorina is poison"
+  },
+  {
+    "prompt": "What's the type of nidoqueen?",
+    "answer": "nidoqueen is apoison/ground type"
+  },
+  {
+    "prompt": "What's the type of nidoran-m?",
+    "answer": "The type of nidoran-m is poison"
+  },
+  {
+    "prompt": "What's the type of nidorino?",
+    "answer": "The type of nidorino is poison"
+  },
+  {
+    "prompt": "What's the type of nidoking?",
+    "answer": "nidoking is apoison/ground type"
+  },
+  {
+    "prompt": "What's the type of clefairy?",
+    "answer": "The type of clefairy is fairy"
+  },
+  {
+    "prompt": "What's the type of clefable?",
+    "answer": "The type of clefable is fairy"
+  },
+  {
+    "prompt": "What's the type of vulpix?",
+    "answer": "The type of vulpix is fire"
+  },
+  {
+    "prompt": "What's the type of ninetales?",
+    "answer": "The type of ninetales is fire"
+  },
+  {
+    "prompt": "What's the type of jigglypuff?",
+    "answer": "jigglypuff is anormal/fairy type"
+  },
+  {
+    "prompt": "What's the type of wigglytuff?",
+    "answer": "wigglytuff is anormal/fairy type"
+  },
+  {
+    "prompt": "What's the type of zubat?",
+    "answer": "zubat is apoison/flying type"
+  },
+  {
+    "prompt": "What's the type of golbat?",
+    "answer": "golbat is apoison/flying type"
+  },
+  {
+    "prompt": "What's the type of oddish?",
+    "answer": "oddish is agrass/poison type"
+  },
+  {
+    "prompt": "What's the type of gloom?",
+    "answer": "gloom is agrass/poison type"
+  },
+  {
+    "prompt": "What's the type of vileplume?",
+    "answer": "vileplume is agrass/poison type"
+  },
+  {
+    "prompt": "What's the type of paras?",
+    "answer": "paras is abug/grass type"
+  },
+  {
+    "prompt": "What's the type of parasect?",
+    "answer": "parasect is abug/grass type"
+  },
+  {
+    "prompt": "What's the type of venonat?",
+    "answer": "venonat is abug/poison type"
+  },
+  {
+    "prompt": "What's the type of venomoth?",
+    "answer": "venomoth is abug/poison type"
+  },
+  {
+    "prompt": "What's the type of diglett?",
+    "answer": "The type of diglett is ground"
+  },
+  {
+    "prompt": "What's the type of dugtrio?",
+    "answer": "The type of dugtrio is ground"
+  },
+  {
+    "prompt": "What's the type of meowth?",
+    "answer": "The type of meowth is normal"
+  },
+  {
+    "prompt": "What's the type of persian?",
+    "answer": "The type of persian is normal"
+  },
+  {
+    "prompt": "What's the type of psyduck?",
+    "answer": "The type of psyduck is water"
+  },
+  {
+    "prompt": "What's the type of golduck?",
+    "answer": "The type of golduck is water"
+  },
+  {
+    "prompt": "What's the type of mankey?",
+    "answer": "The type of mankey is fighting"
+  },
+  {
+    "prompt": "What's the type of primeape?",
+    "answer": "The type of primeape is fighting"
+  },
+  {
+    "prompt": "What's the type of growlithe?",
+    "answer": "The type of growlithe is fire"
+  },
+  {
+    "prompt": "What's the type of arcanine?",
+    "answer": "The type of arcanine is fire"
+  },
+  {
+    "prompt": "What's the type of poliwag?",
+    "answer": "The type of poliwag is water"
+  },
+  {
+    "prompt": "What's the type of poliwhirl?",
+    "answer": "The type of poliwhirl is water"
+  },
+  {
+    "prompt": "What's the type of poliwrath?",
+    "answer": "poliwrath is awater/fighting type"
+  },
+  {
+    "prompt": "What's the type of abra?",
+    "answer": "The type of abra is psychic"
+  },
+  {
+    "prompt": "What's the type of kadabra?",
+    "answer": "The type of kadabra is psychic"
+  },
+  {
+    "prompt": "What's the type of alakazam?",
+    "answer": "The type of alakazam is psychic"
+  },
+  {
+    "prompt": "What's the type of machop?",
+    "answer": "The type of machop is fighting"
+  },
+  {
+    "prompt": "What's the type of machoke?",
+    "answer": "The type of machoke is fighting"
+  },
+  {
+    "prompt": "What's the type of machamp?",
+    "answer": "The type of machamp is fighting"
+  },
+  {
+    "prompt": "What's the type of bellsprout?",
+    "answer": "bellsprout is agrass/poison type"
+  },
+  {
+    "prompt": "What's the type of weepinbell?",
+    "answer": "weepinbell is agrass/poison type"
+  },
+  {
+    "prompt": "What's the type of victreebel?",
+    "answer": "victreebel is agrass/poison type"
+  },
+  {
+    "prompt": "What's the type of tentacool?",
+    "answer": "tentacool is awater/poison type"
+  },
+  {
+    "prompt": "What's the type of tentacruel?",
+    "answer": "tentacruel is awater/poison type"
+  },
+  {
+    "prompt": "What's the type of geodude?",
+    "answer": "geodude is arock/ground type"
+  },
+  {
+    "prompt": "What's the type of graveler?",
+    "answer": "graveler is arock/ground type"
+  },
+  {
+    "prompt": "What's the type of golem?",
+    "answer": "golem is arock/ground type"
+  },
+  {
+    "prompt": "What's the type of ponyta?",
+    "answer": "The type of ponyta is fire"
+  },
+  {
+    "prompt": "What's the type of rapidash?",
+    "answer": "The type of rapidash is fire"
+  },
+  {
+    "prompt": "What's the type of slowpoke?",
+    "answer": "slowpoke is awater/psychic type"
+  },
+  {
+    "prompt": "What's the type of slowbro?",
+    "answer": "slowbro is awater/psychic type"
+  },
+  {
+    "prompt": "What's the type of magnemite?",
+    "answer": "magnemite is aelectric/steel type"
+  },
+  {
+    "prompt": "What's the type of magneton?",
+    "answer": "magneton is aelectric/steel type"
+  },
+  {
+    "prompt": "What's the type of farfetchd?",
+    "answer": "farfetchd is anormal/flying type"
+  },
+  {
+    "prompt": "What's the type of doduo?",
+    "answer": "doduo is anormal/flying type"
+  },
+  {
+    "prompt": "What's the type of dodrio?",
+    "answer": "dodrio is anormal/flying type"
+  },
+  {
+    "prompt": "What's the type of seel?",
+    "answer": "The type of seel is water"
+  },
+  {
+    "prompt": "What's the type of dewgong?",
+    "answer": "dewgong is awater/ice type"
+  },
+  {
+    "prompt": "What's the type of grimer?",
+    "answer": "The type of grimer is poison"
+  },
+  {
+    "prompt": "What's the type of muk?",
+    "answer": "The type of muk is poison"
+  },
+  {
+    "prompt": "What's the type of shellder?",
+    "answer": "The type of shellder is water"
+  },
+  {
+    "prompt": "What's the type of cloyster?",
+    "answer": "cloyster is awater/ice type"
+  },
+  {
+    "prompt": "What's the type of gastly?",
+    "answer": "gastly is aghost/poison type"
+  },
+  {
+    "prompt": "What's the type of haunter?",
+    "answer": "haunter is aghost/poison type"
+  },
+  {
+    "prompt": "What's the type of gengar?",
+    "answer": "gengar is aghost/poison type"
+  },
+  {
+    "prompt": "What's the type of onix?",
+    "answer": "onix is arock/ground type"
+  },
+  {
+    "prompt": "What's the type of drowzee?",
+    "answer": "The type of drowzee is psychic"
+  },
+  {
+    "prompt": "What's the type of hypno?",
+    "answer": "The type of hypno is psychic"
+  },
+  {
+    "prompt": "What's the type of krabby?",
+    "answer": "The type of krabby is water"
+  },
+  {
+    "prompt": "What's the type of kingler?",
+    "answer": "The type of kingler is water"
+  },
+  {
+    "prompt": "What's the type of voltorb?",
+    "answer": "The type of voltorb is electric"
+  },
+  {
+    "prompt": "What's the type of electrode?",
+    "answer": "The type of electrode is electric"
+  },
+  {
+    "prompt": "What's the type of exeggcute?",
+    "answer": "exeggcute is agrass/psychic type"
+  },
+  {
+    "prompt": "What's the type of exeggutor?",
+    "answer": "exeggutor is agrass/psychic type"
+  },
+  {
+    "prompt": "What's the type of cubone?",
+    "answer": "The type of cubone is ground"
+  },
+  {
+    "prompt": "What's the type of marowak?",
+    "answer": "The type of marowak is ground"
+  },
+  {
+    "prompt": "What's the type of hitmonlee?",
+    "answer": "The type of hitmonlee is fighting"
+  },
+  {
+    "prompt": "What's the type of hitmonchan?",
+    "answer": "The type of hitmonchan is fighting"
+  },
+  {
+    "prompt": "What's the type of lickitung?",
+    "answer": "The type of lickitung is normal"
+  },
+  {
+    "prompt": "What's the type of koffing?",
+    "answer": "The type of koffing is poison"
+  },
+  {
+    "prompt": "What's the type of weezing?",
+    "answer": "The type of weezing is poison"
+  },
+  {
+    "prompt": "What's the type of rhyhorn?",
+    "answer": "rhyhorn is aground/rock type"
+  },
+  {
+    "prompt": "What's the type of rhydon?",
+    "answer": "rhydon is aground/rock type"
+  },
+  {
+    "prompt": "What's the type of chansey?",
+    "answer": "The type of chansey is normal"
+  },
+  {
+    "prompt": "What's the type of tangela?",
+    "answer": "The type of tangela is grass"
+  },
+  {
+    "prompt": "What's the type of kangaskhan?",
+    "answer": "The type of kangaskhan is normal"
+  },
+  {
+    "prompt": "What's the type of horsea?",
+    "answer": "The type of horsea is water"
+  },
+  {
+    "prompt": "What's the type of seadra?",
+    "answer": "The type of seadra is water"
+  },
+  {
+    "prompt": "What's the type of goldeen?",
+    "answer": "The type of goldeen is water"
+  },
+  {
+    "prompt": "What's the type of seaking?",
+    "answer": "The type of seaking is water"
+  },
+  {
+    "prompt": "What's the type of staryu?",
+    "answer": "The type of staryu is water"
+  },
+  {
+    "prompt": "What's the type of starmie?",
+    "answer": "starmie is awater/psychic type"
+  },
+  {
+    "prompt": "What's the type of mr-mime?",
+    "answer": "mr-mime is apsychic/fairy type"
+  },
+  {
+    "prompt": "What's the type of scyther?",
+    "answer": "scyther is abug/flying type"
+  },
+  {
+    "prompt": "What's the type of jynx?",
+    "answer": "jynx is aice/psychic type"
+  },
+  {
+    "prompt": "What's the type of electabuzz?",
+    "answer": "The type of electabuzz is electric"
+  },
+  {
+    "prompt": "What's the type of magmar?",
+    "answer": "The type of magmar is fire"
+  },
+  {
+    "prompt": "What's the type of pinsir?",
+    "answer": "The type of pinsir is bug"
+  },
+  {
+    "prompt": "What's the type of tauros?",
+    "answer": "The type of tauros is normal"
+  },
+  {
+    "prompt": "What's the type of magikarp?",
+    "answer": "The type of magikarp is water"
+  },
+  {
+    "prompt": "What's the type of gyarados?",
+    "answer": "gyarados is awater/flying type"
+  },
+  {
+    "prompt": "What's the type of lapras?",
+    "answer": "lapras is awater/ice type"
+  },
+  {
+    "prompt": "What's the type of ditto?",
+    "answer": "The type of ditto is normal"
+  },
+  {
+    "prompt": "What's the type of eevee?",
+    "answer": "The type of eevee is normal"
+  },
+  {
+    "prompt": "What's the type of vaporeon?",
+    "answer": "The type of vaporeon is water"
+  },
+  {
+    "prompt": "What's the type of jolteon?",
+    "answer": "The type of jolteon is electric"
+  },
+  {
+    "prompt": "What's the type of flareon?",
+    "answer": "The type of flareon is fire"
+  },
+  {
+    "prompt": "What's the type of porygon?",
+    "answer": "The type of porygon is normal"
+  },
+  {
+    "prompt": "What's the type of omanyte?",
+    "answer": "omanyte is arock/water type"
+  },
+  {
+    "prompt": "What's the type of omastar?",
+    "answer": "omastar is arock/water type"
+  },
+  {
+    "prompt": "What's the type of kabuto?",
+    "answer": "kabuto is arock/water type"
+  },
+  {
+    "prompt": "What's the type of kabutops?",
+    "answer": "kabutops is arock/water type"
+  },
+  {
+    "prompt": "What's the type of aerodactyl?",
+    "answer": "aerodactyl is arock/flying type"
+  },
+  {
+    "prompt": "What's the type of snorlax?",
+    "answer": "The type of snorlax is normal"
+  },
+  {
+    "prompt": "What's the type of articuno?",
+    "answer": "articuno is aice/flying type"
+  },
+  {
+    "prompt": "What's the type of zapdos?",
+    "answer": "zapdos is aelectric/flying type"
+  },
+  {
+    "prompt": "What's the type of moltres?",
+    "answer": "moltres is afire/flying type"
+  },
+  {
+    "prompt": "What's the type of dratini?",
+    "answer": "The type of dratini is dragon"
+  },
+  {
+    "prompt": "What's the type of dragonair?",
+    "answer": "The type of dragonair is dragon"
+  },
+  {
+    "prompt": "What's the type of dragonite?",
+    "answer": "dragonite is adragon/flying type"
+  },
+  {
+    "prompt": "What's the type of mewtwo?",
+    "answer": "The type of mewtwo is psychic"
+  },
+  {
+    "prompt": "What's the type of mew?",
+    "answer": "The type of mew is psychic"
+  },
+  {
+    "prompt": "What's the type of chikorita?",
+    "answer": "The type of chikorita is grass"
+  },
+  {
+    "prompt": "What's the type of bayleef?",
+    "answer": "The type of bayleef is grass"
+  },
+  {
+    "prompt": "What's the type of meganium?",
+    "answer": "The type of meganium is grass"
+  },
+  {
+    "prompt": "What's the type of cyndaquil?",
+    "answer": "The type of cyndaquil is fire"
+  },
+  {
+    "prompt": "What's the type of quilava?",
+    "answer": "The type of quilava is fire"
+  },
+  {
+    "prompt": "What's the type of typhlosion?",
+    "answer": "The type of typhlosion is fire"
+  },
+  {
+    "prompt": "What's the type of totodile?",
+    "answer": "The type of totodile is water"
+  },
+  {
+    "prompt": "What's the type of croconaw?",
+    "answer": "The type of croconaw is water"
+  },
+  {
+    "prompt": "What's the type of feraligatr?",
+    "answer": "The type of feraligatr is water"
+  },
+  {
+    "prompt": "What's the type of sentret?",
+    "answer": "The type of sentret is normal"
+  },
+  {
+    "prompt": "What's the type of furret?",
+    "answer": "The type of furret is normal"
+  },
+  {
+    "prompt": "What's the type of hoothoot?",
+    "answer": "hoothoot is anormal/flying type"
+  },
+  {
+    "prompt": "What's the type of noctowl?",
+    "answer": "noctowl is anormal/flying type"
+  },
+  {
+    "prompt": "What's the type of ledyba?",
+    "answer": "ledyba is abug/flying type"
+  },
+  {
+    "prompt": "What's the type of ledian?",
+    "answer": "ledian is abug/flying type"
+  },
+  {
+    "prompt": "What's the type of spinarak?",
+    "answer": "spinarak is abug/poison type"
+  },
+  {
+    "prompt": "What's the type of ariados?",
+    "answer": "ariados is abug/poison type"
+  },
+  {
+    "prompt": "What's the type of crobat?",
+    "answer": "crobat is apoison/flying type"
+  },
+  {
+    "prompt": "What's the type of chinchou?",
+    "answer": "chinchou is awater/electric type"
+  },
+  {
+    "prompt": "What's the type of lanturn?",
+    "answer": "lanturn is awater/electric type"
+  },
+  {
+    "prompt": "What's the type of pichu?",
+    "answer": "The type of pichu is electric"
+  },
+  {
+    "prompt": "What's the type of cleffa?",
+    "answer": "The type of cleffa is fairy"
+  },
+  {
+    "prompt": "What's the type of igglybuff?",
+    "answer": "igglybuff is anormal/fairy type"
+  },
+  {
+    "prompt": "What's the type of togepi?",
+    "answer": "The type of togepi is fairy"
+  },
+  {
+    "prompt": "What's the type of togetic?",
+    "answer": "togetic is afairy/flying type"
+  },
+  {
+    "prompt": "What's the type of natu?",
+    "answer": "natu is apsychic/flying type"
+  },
+  {
+    "prompt": "What's the type of xatu?",
+    "answer": "xatu is apsychic/flying type"
+  },
+  {
+    "prompt": "What's the type of mareep?",
+    "answer": "The type of mareep is electric"
+  },
+  {
+    "prompt": "What's the type of flaaffy?",
+    "answer": "The type of flaaffy is electric"
+  },
+  {
+    "prompt": "What's the type of ampharos?",
+    "answer": "The type of ampharos is electric"
+  },
+  {
+    "prompt": "What's the type of bellossom?",
+    "answer": "The type of bellossom is grass"
+  },
+  {
+    "prompt": "What's the type of marill?",
+    "answer": "marill is awater/fairy type"
+  },
+  {
+    "prompt": "What's the type of azumarill?",
+    "answer": "azumarill is awater/fairy type"
+  },
+  {
+    "prompt": "What's the type of sudowoodo?",
+    "answer": "The type of sudowoodo is rock"
+  },
+  {
+    "prompt": "What's the type of politoed?",
+    "answer": "The type of politoed is water"
+  },
+  {
+    "prompt": "What's the type of hoppip?",
+    "answer": "hoppip is agrass/flying type"
+  },
+  {
+    "prompt": "What's the type of skiploom?",
+    "answer": "skiploom is agrass/flying type"
+  },
+  {
+    "prompt": "What's the type of jumpluff?",
+    "answer": "jumpluff is agrass/flying type"
+  },
+  {
+    "prompt": "What's the type of aipom?",
+    "answer": "The type of aipom is normal"
+  },
+  {
+    "prompt": "What's the type of sunkern?",
+    "answer": "The type of sunkern is grass"
+  },
+  {
+    "prompt": "What's the type of sunflora?",
+    "answer": "The type of sunflora is grass"
+  },
+  {
+    "prompt": "What's the type of yanma?",
+    "answer": "yanma is abug/flying type"
+  },
+  {
+    "prompt": "What's the type of wooper?",
+    "answer": "wooper is awater/ground type"
+  },
+  {
+    "prompt": "What's the type of quagsire?",
+    "answer": "quagsire is awater/ground type"
+  },
+  {
+    "prompt": "What's the type of espeon?",
+    "answer": "The type of espeon is psychic"
+  },
+  {
+    "prompt": "What's the type of umbreon?",
+    "answer": "The type of umbreon is dark"
+  },
+  {
+    "prompt": "What's the type of murkrow?",
+    "answer": "murkrow is adark/flying type"
+  },
+  {
+    "prompt": "What's the type of slowking?",
+    "answer": "slowking is awater/psychic type"
+  },
+  {
+    "prompt": "What's the type of misdreavus?",
+    "answer": "The type of misdreavus is ghost"
+  },
+  {
+    "prompt": "What's the type of unown?",
+    "answer": "The type of unown is psychic"
+  },
+  {
+    "prompt": "What's the type of wobbuffet?",
+    "answer": "The type of wobbuffet is psychic"
+  },
+  {
+    "prompt": "What's the type of girafarig?",
+    "answer": "girafarig is anormal/psychic type"
+  },
+  {
+    "prompt": "What's the type of pineco?",
+    "answer": "The type of pineco is bug"
+  },
+  {
+    "prompt": "What's the type of forretress?",
+    "answer": "forretress is abug/steel type"
+  },
+  {
+    "prompt": "What's the type of dunsparce?",
+    "answer": "The type of dunsparce is normal"
+  },
+  {
+    "prompt": "What's the type of gligar?",
+    "answer": "gligar is aground/flying type"
+  },
+  {
+    "prompt": "What's the type of steelix?",
+    "answer": "steelix is asteel/ground type"
+  },
+  {
+    "prompt": "What's the type of snubbull?",
+    "answer": "The type of snubbull is fairy"
+  },
+  {
+    "prompt": "What's the type of granbull?",
+    "answer": "The type of granbull is fairy"
+  },
+  {
+    "prompt": "What's the type of qwilfish?",
+    "answer": "qwilfish is awater/poison type"
+  },
+  {
+    "prompt": "What's the type of scizor?",
+    "answer": "scizor is abug/steel type"
+  },
+  {
+    "prompt": "What's the type of shuckle?",
+    "answer": "shuckle is abug/rock type"
+  },
+  {
+    "prompt": "What's the type of heracross?",
+    "answer": "heracross is abug/fighting type"
+  },
+  {
+    "prompt": "What's the type of sneasel?",
+    "answer": "sneasel is adark/ice type"
+  },
+  {
+    "prompt": "What's the type of teddiursa?",
+    "answer": "The type of teddiursa is normal"
+  },
+  {
+    "prompt": "What's the type of ursaring?",
+    "answer": "The type of ursaring is normal"
+  },
+  {
+    "prompt": "What's the type of slugma?",
+    "answer": "The type of slugma is fire"
+  },
+  {
+    "prompt": "What's the type of magcargo?",
+    "answer": "magcargo is afire/rock type"
+  },
+  {
+    "prompt": "What's the type of swinub?",
+    "answer": "swinub is aice/ground type"
+  },
+  {
+    "prompt": "What's the type of piloswine?",
+    "answer": "piloswine is aice/ground type"
+  },
+  {
+    "prompt": "What's the type of corsola?",
+    "answer": "corsola is awater/rock type"
+  },
+  {
+    "prompt": "What's the type of remoraid?",
+    "answer": "The type of remoraid is water"
+  },
+  {
+    "prompt": "What's the type of octillery?",
+    "answer": "The type of octillery is water"
+  },
+  {
+    "prompt": "What's the type of delibird?",
+    "answer": "delibird is aice/flying type"
+  },
+  {
+    "prompt": "What's the type of mantine?",
+    "answer": "mantine is awater/flying type"
+  },
+  {
+    "prompt": "What's the type of skarmory?",
+    "answer": "skarmory is asteel/flying type"
+  },
+  {
+    "prompt": "What's the type of houndour?",
+    "answer": "houndour is adark/fire type"
+  },
+  {
+    "prompt": "What's the type of houndoom?",
+    "answer": "houndoom is adark/fire type"
+  },
+  {
+    "prompt": "What's the type of kingdra?",
+    "answer": "kingdra is awater/dragon type"
+  },
+  {
+    "prompt": "What's the type of phanpy?",
+    "answer": "The type of phanpy is ground"
+  },
+  {
+    "prompt": "What's the type of donphan?",
+    "answer": "The type of donphan is ground"
+  },
+  {
+    "prompt": "What's the type of porygon2?",
+    "answer": "The type of porygon2 is normal"
+  },
+  {
+    "prompt": "What's the type of stantler?",
+    "answer": "The type of stantler is normal"
+  },
+  {
+    "prompt": "What's the type of smeargle?",
+    "answer": "The type of smeargle is normal"
+  },
+  {
+    "prompt": "What's the type of tyrogue?",
+    "answer": "The type of tyrogue is fighting"
+  },
+  {
+    "prompt": "What's the type of hitmontop?",
+    "answer": "The type of hitmontop is fighting"
+  },
+  {
+    "prompt": "What's the type of smoochum?",
+    "answer": "smoochum is aice/psychic type"
+  },
+  {
+    "prompt": "What's the type of elekid?",
+    "answer": "The type of elekid is electric"
+  },
+  {
+    "prompt": "What's the type of magby?",
+    "answer": "The type of magby is fire"
+  },
+  {
+    "prompt": "What's the type of miltank?",
+    "answer": "The type of miltank is normal"
+  },
+  {
+    "prompt": "What's the type of blissey?",
+    "answer": "The type of blissey is normal"
+  },
+  {
+    "prompt": "What's the type of raikou?",
+    "answer": "The type of raikou is electric"
+  },
+  {
+    "prompt": "What's the type of entei?",
+    "answer": "The type of entei is fire"
+  },
+  {
+    "prompt": "What's the type of suicune?",
+    "answer": "The type of suicune is water"
+  },
+  {
+    "prompt": "What's the type of larvitar?",
+    "answer": "larvitar is arock/ground type"
+  },
+  {
+    "prompt": "What's the type of pupitar?",
+    "answer": "pupitar is arock/ground type"
+  },
+  {
+    "prompt": "What's the type of tyranitar?",
+    "answer": "tyranitar is arock/dark type"
+  },
+  {
+    "prompt": "What's the type of lugia?",
+    "answer": "lugia is apsychic/flying type"
+  },
+  {
+    "prompt": "What's the type of ho-oh?",
+    "answer": "ho-oh is afire/flying type"
+  },
+  {
+    "prompt": "What's the type of celebi?",
+    "answer": "celebi is apsychic/grass type"
+  },
+  {
+    "prompt": "What's the type of treecko?",
+    "answer": "The type of treecko is grass"
+  },
+  {
+    "prompt": "What's the type of grovyle?",
+    "answer": "The type of grovyle is grass"
+  },
+  {
+    "prompt": "What's the type of sceptile?",
+    "answer": "The type of sceptile is grass"
+  },
+  {
+    "prompt": "What's the type of torchic?",
+    "answer": "The type of torchic is fire"
+  },
+  {
+    "prompt": "What's the type of combusken?",
+    "answer": "combusken is afire/fighting type"
+  },
+  {
+    "prompt": "What's the type of blaziken?",
+    "answer": "blaziken is afire/fighting type"
+  },
+  {
+    "prompt": "What's the type of mudkip?",
+    "answer": "The type of mudkip is water"
+  },
+  {
+    "prompt": "What's the type of marshtomp?",
+    "answer": "marshtomp is awater/ground type"
+  },
+  {
+    "prompt": "What's the type of swampert?",
+    "answer": "swampert is awater/ground type"
+  },
+  {
+    "prompt": "What's the type of poochyena?",
+    "answer": "The type of poochyena is dark"
+  },
+  {
+    "prompt": "What's the type of mightyena?",
+    "answer": "The type of mightyena is dark"
+  },
+  {
+    "prompt": "What's the type of zigzagoon?",
+    "answer": "The type of zigzagoon is normal"
+  },
+  {
+    "prompt": "What's the type of linoone?",
+    "answer": "The type of linoone is normal"
+  },
+  {
+    "prompt": "What's the type of wurmple?",
+    "answer": "The type of wurmple is bug"
+  },
+  {
+    "prompt": "What's the type of silcoon?",
+    "answer": "The type of silcoon is bug"
+  },
+  {
+    "prompt": "What's the type of beautifly?",
+    "answer": "beautifly is abug/flying type"
+  },
+  {
+    "prompt": "What's the type of cascoon?",
+    "answer": "The type of cascoon is bug"
+  },
+  {
+    "prompt": "What's the type of dustox?",
+    "answer": "dustox is abug/poison type"
+  },
+  {
+    "prompt": "What's the type of lotad?",
+    "answer": "lotad is awater/grass type"
+  },
+  {
+    "prompt": "What's the type of lombre?",
+    "answer": "lombre is awater/grass type"
+  },
+  {
+    "prompt": "What's the type of ludicolo?",
+    "answer": "ludicolo is awater/grass type"
+  },
+  {
+    "prompt": "What's the type of seedot?",
+    "answer": "The type of seedot is grass"
+  },
+  {
+    "prompt": "What's the type of nuzleaf?",
+    "answer": "nuzleaf is agrass/dark type"
+  },
+  {
+    "prompt": "What's the type of shiftry?",
+    "answer": "shiftry is agrass/dark type"
+  },
+  {
+    "prompt": "What's the type of taillow?",
+    "answer": "taillow is anormal/flying type"
+  },
+  {
+    "prompt": "What's the type of swellow?",
+    "answer": "swellow is anormal/flying type"
+  },
+  {
+    "prompt": "What's the type of wingull?",
+    "answer": "wingull is awater/flying type"
+  },
+  {
+    "prompt": "What's the type of pelipper?",
+    "answer": "pelipper is awater/flying type"
+  },
+  {
+    "prompt": "What's the type of ralts?",
+    "answer": "ralts is apsychic/fairy type"
+  },
+  {
+    "prompt": "What's the type of kirlia?",
+    "answer": "kirlia is apsychic/fairy type"
+  },
+  {
+    "prompt": "What's the type of gardevoir?",
+    "answer": "gardevoir is apsychic/fairy type"
+  },
+  {
+    "prompt": "What's the type of surskit?",
+    "answer": "surskit is abug/water type"
+  },
+  {
+    "prompt": "What's the type of masquerain?",
+    "answer": "masquerain is abug/flying type"
+  },
+  {
+    "prompt": "What's the type of shroomish?",
+    "answer": "The type of shroomish is grass"
+  },
+  {
+    "prompt": "What's the type of breloom?",
+    "answer": "breloom is agrass/fighting type"
+  },
+  {
+    "prompt": "What's the type of slakoth?",
+    "answer": "The type of slakoth is normal"
+  },
+  {
+    "prompt": "What's the type of vigoroth?",
+    "answer": "The type of vigoroth is normal"
+  },
+  {
+    "prompt": "What's the type of slaking?",
+    "answer": "The type of slaking is normal"
+  },
+  {
+    "prompt": "What's the type of nincada?",
+    "answer": "nincada is abug/ground type"
+  },
+  {
+    "prompt": "What's the type of ninjask?",
+    "answer": "ninjask is abug/flying type"
+  },
+  {
+    "prompt": "What's the type of shedinja?",
+    "answer": "shedinja is abug/ghost type"
+  },
+  {
+    "prompt": "What's the type of whismur?",
+    "answer": "The type of whismur is normal"
+  },
+  {
+    "prompt": "What's the type of loudred?",
+    "answer": "The type of loudred is normal"
+  },
+  {
+    "prompt": "What's the type of exploud?",
+    "answer": "The type of exploud is normal"
+  },
+  {
+    "prompt": "What's the type of makuhita?",
+    "answer": "The type of makuhita is fighting"
+  },
+  {
+    "prompt": "What's the type of hariyama?",
+    "answer": "The type of hariyama is fighting"
+  },
+  {
+    "prompt": "What's the type of azurill?",
+    "answer": "azurill is anormal/fairy type"
+  },
+  {
+    "prompt": "What's the type of nosepass?",
+    "answer": "The type of nosepass is rock"
+  },
+  {
+    "prompt": "What's the type of skitty?",
+    "answer": "The type of skitty is normal"
+  },
+  {
+    "prompt": "What's the type of delcatty?",
+    "answer": "The type of delcatty is normal"
+  },
+  {
+    "prompt": "What's the type of sableye?",
+    "answer": "sableye is adark/ghost type"
+  },
+  {
+    "prompt": "What's the type of mawile?",
+    "answer": "mawile is asteel/fairy type"
+  },
+  {
+    "prompt": "What's the type of aron?",
+    "answer": "aron is asteel/rock type"
+  },
+  {
+    "prompt": "What's the type of lairon?",
+    "answer": "lairon is asteel/rock type"
+  },
+  {
+    "prompt": "What's the type of aggron?",
+    "answer": "aggron is asteel/rock type"
+  },
+  {
+    "prompt": "What's the type of meditite?",
+    "answer": "meditite is afighting/psychic type"
+  },
+  {
+    "prompt": "What's the type of medicham?",
+    "answer": "medicham is afighting/psychic type"
+  },
+  {
+    "prompt": "What's the type of electrike?",
+    "answer": "The type of electrike is electric"
+  },
+  {
+    "prompt": "What's the type of manectric?",
+    "answer": "The type of manectric is electric"
+  },
+  {
+    "prompt": "What's the type of plusle?",
+    "answer": "The type of plusle is electric"
+  },
+  {
+    "prompt": "What's the type of minun?",
+    "answer": "The type of minun is electric"
+  },
+  {
+    "prompt": "What's the type of volbeat?",
+    "answer": "The type of volbeat is bug"
+  },
+  {
+    "prompt": "What's the type of illumise?",
+    "answer": "The type of illumise is bug"
+  },
+  {
+    "prompt": "What's the type of roselia?",
+    "answer": "roselia is agrass/poison type"
+  },
+  {
+    "prompt": "What's the type of gulpin?",
+    "answer": "The type of gulpin is poison"
+  },
+  {
+    "prompt": "What's the type of swalot?",
+    "answer": "The type of swalot is poison"
+  },
+  {
+    "prompt": "What's the type of carvanha?",
+    "answer": "carvanha is awater/dark type"
+  },
+  {
+    "prompt": "What's the type of sharpedo?",
+    "answer": "sharpedo is awater/dark type"
+  },
+  {
+    "prompt": "What's the type of wailmer?",
+    "answer": "The type of wailmer is water"
+  },
+  {
+    "prompt": "What's the type of wailord?",
+    "answer": "The type of wailord is water"
+  },
+  {
+    "prompt": "What's the type of numel?",
+    "answer": "numel is afire/ground type"
+  },
+  {
+    "prompt": "What's the type of camerupt?",
+    "answer": "camerupt is afire/ground type"
+  },
+  {
+    "prompt": "What's the type of torkoal?",
+    "answer": "The type of torkoal is fire"
+  },
+  {
+    "prompt": "What's the type of spoink?",
+    "answer": "The type of spoink is psychic"
+  },
+  {
+    "prompt": "What's the type of grumpig?",
+    "answer": "The type of grumpig is psychic"
+  },
+  {
+    "prompt": "What's the type of spinda?",
+    "answer": "The type of spinda is normal"
+  },
+  {
+    "prompt": "What's the type of trapinch?",
+    "answer": "The type of trapinch is ground"
+  },
+  {
+    "prompt": "What's the type of vibrava?",
+    "answer": "vibrava is aground/dragon type"
+  },
+  {
+    "prompt": "What's the type of flygon?",
+    "answer": "flygon is aground/dragon type"
+  },
+  {
+    "prompt": "What's the type of cacnea?",
+    "answer": "The type of cacnea is grass"
+  },
+  {
+    "prompt": "What's the type of cacturne?",
+    "answer": "cacturne is agrass/dark type"
+  },
+  {
+    "prompt": "What's the type of swablu?",
+    "answer": "swablu is anormal/flying type"
+  },
+  {
+    "prompt": "What's the type of altaria?",
+    "answer": "altaria is adragon/flying type"
+  },
+  {
+    "prompt": "What's the type of zangoose?",
+    "answer": "The type of zangoose is normal"
+  },
+  {
+    "prompt": "What's the type of seviper?",
+    "answer": "The type of seviper is poison"
+  },
+  {
+    "prompt": "What's the type of lunatone?",
+    "answer": "lunatone is arock/psychic type"
+  },
+  {
+    "prompt": "What's the type of solrock?",
+    "answer": "solrock is arock/psychic type"
+  },
+  {
+    "prompt": "What's the type of barboach?",
+    "answer": "barboach is awater/ground type"
+  },
+  {
+    "prompt": "What's the type of whiscash?",
+    "answer": "whiscash is awater/ground type"
+  },
+  {
+    "prompt": "What's the type of corphish?",
+    "answer": "The type of corphish is water"
+  },
+  {
+    "prompt": "What's the type of crawdaunt?",
+    "answer": "crawdaunt is awater/dark type"
+  },
+  {
+    "prompt": "What's the type of baltoy?",
+    "answer": "baltoy is aground/psychic type"
+  },
+  {
+    "prompt": "What's the type of claydol?",
+    "answer": "claydol is aground/psychic type"
+  },
+  {
+    "prompt": "What's the type of lileep?",
+    "answer": "lileep is arock/grass type"
+  },
+  {
+    "prompt": "What's the type of cradily?",
+    "answer": "cradily is arock/grass type"
+  },
+  {
+    "prompt": "What's the type of anorith?",
+    "answer": "anorith is arock/bug type"
+  },
+  {
+    "prompt": "What's the type of armaldo?",
+    "answer": "armaldo is arock/bug type"
+  },
+  {
+    "prompt": "What's the type of feebas?",
+    "answer": "The type of feebas is water"
+  },
+  {
+    "prompt": "What's the type of milotic?",
+    "answer": "The type of milotic is water"
+  },
+  {
+    "prompt": "What's the type of castform?",
+    "answer": "The type of castform is normal"
+  },
+  {
+    "prompt": "What's the type of kecleon?",
+    "answer": "The type of kecleon is normal"
+  },
+  {
+    "prompt": "What's the type of shuppet?",
+    "answer": "The type of shuppet is ghost"
+  },
+  {
+    "prompt": "What's the type of banette?",
+    "answer": "The type of banette is ghost"
+  },
+  {
+    "prompt": "What's the type of duskull?",
+    "answer": "The type of duskull is ghost"
+  },
+  {
+    "prompt": "What's the type of dusclops?",
+    "answer": "The type of dusclops is ghost"
+  },
+  {
+    "prompt": "What's the type of tropius?",
+    "answer": "tropius is agrass/flying type"
+  },
+  {
+    "prompt": "What's the type of chimecho?",
+    "answer": "The type of chimecho is psychic"
+  },
+  {
+    "prompt": "What's the type of absol?",
+    "answer": "The type of absol is dark"
+  },
+  {
+    "prompt": "What's the type of wynaut?",
+    "answer": "The type of wynaut is psychic"
+  },
+  {
+    "prompt": "What's the type of snorunt?",
+    "answer": "The type of snorunt is ice"
+  },
+  {
+    "prompt": "What's the type of glalie?",
+    "answer": "The type of glalie is ice"
+  },
+  {
+    "prompt": "What's the type of spheal?",
+    "answer": "spheal is aice/water type"
+  },
+  {
+    "prompt": "What's the type of sealeo?",
+    "answer": "sealeo is aice/water type"
+  },
+  {
+    "prompt": "What's the type of walrein?",
+    "answer": "walrein is aice/water type"
+  },
+  {
+    "prompt": "What's the type of clamperl?",
+    "answer": "The type of clamperl is water"
+  },
+  {
+    "prompt": "What's the type of huntail?",
+    "answer": "The type of huntail is water"
+  },
+  {
+    "prompt": "What's the type of gorebyss?",
+    "answer": "The type of gorebyss is water"
+  },
+  {
+    "prompt": "What's the type of relicanth?",
+    "answer": "relicanth is awater/rock type"
+  },
+  {
+    "prompt": "What's the type of luvdisc?",
+    "answer": "The type of luvdisc is water"
+  },
+  {
+    "prompt": "What's the type of bagon?",
+    "answer": "The type of bagon is dragon"
+  },
+  {
+    "prompt": "What's the type of shelgon?",
+    "answer": "The type of shelgon is dragon"
+  },
+  {
+    "prompt": "What's the type of salamence?",
+    "answer": "salamence is adragon/flying type"
+  },
+  {
+    "prompt": "What's the type of beldum?",
+    "answer": "beldum is asteel/psychic type"
+  },
+  {
+    "prompt": "What's the type of metang?",
+    "answer": "metang is asteel/psychic type"
+  },
+  {
+    "prompt": "What's the type of metagross?",
+    "answer": "metagross is asteel/psychic type"
+  },
+  {
+    "prompt": "What's the type of regirock?",
+    "answer": "The type of regirock is rock"
+  },
+  {
+    "prompt": "What's the type of regice?",
+    "answer": "The type of regice is ice"
+  },
+  {
+    "prompt": "What's the type of registeel?",
+    "answer": "The type of registeel is steel"
+  },
+  {
+    "prompt": "What's the type of latias?",
+    "answer": "latias is adragon/psychic type"
+  },
+  {
+    "prompt": "What's the type of latios?",
+    "answer": "latios is adragon/psychic type"
+  },
+  {
+    "prompt": "What's the type of kyogre?",
+    "answer": "The type of kyogre is water"
+  },
+  {
+    "prompt": "What's the type of groudon?",
+    "answer": "The type of groudon is ground"
+  },
+  {
+    "prompt": "What's the type of rayquaza?",
+    "answer": "rayquaza is adragon/flying type"
+  },
+  {
+    "prompt": "What's the type of jirachi?",
+    "answer": "jirachi is asteel/psychic type"
+  },
+  {
+    "prompt": "What's the type of deoxys-normal?",
+    "answer": "The type of deoxys-normal is psychic"
+  },
+  {
+    "prompt": "What's the type of turtwig?",
+    "answer": "The type of turtwig is grass"
+  },
+  {
+    "prompt": "What's the type of grotle?",
+    "answer": "The type of grotle is grass"
+  },
+  {
+    "prompt": "What's the type of torterra?",
+    "answer": "torterra is agrass/ground type"
+  },
+  {
+    "prompt": "What's the type of chimchar?",
+    "answer": "The type of chimchar is fire"
+  },
+  {
+    "prompt": "What's the type of monferno?",
+    "answer": "monferno is afire/fighting type"
+  },
+  {
+    "prompt": "What's the type of infernape?",
+    "answer": "infernape is afire/fighting type"
+  },
+  {
+    "prompt": "What's the type of piplup?",
+    "answer": "The type of piplup is water"
+  },
+  {
+    "prompt": "What's the type of prinplup?",
+    "answer": "The type of prinplup is water"
+  },
+  {
+    "prompt": "What's the type of empoleon?",
+    "answer": "empoleon is awater/steel type"
+  },
+  {
+    "prompt": "What's the type of starly?",
+    "answer": "starly is anormal/flying type"
+  },
+  {
+    "prompt": "What's the type of staravia?",
+    "answer": "staravia is anormal/flying type"
+  },
+  {
+    "prompt": "What's the type of staraptor?",
+    "answer": "staraptor is anormal/flying type"
+  },
+  {
+    "prompt": "What's the type of bidoof?",
+    "answer": "The type of bidoof is normal"
+  },
+  {
+    "prompt": "What's the type of bibarel?",
+    "answer": "bibarel is anormal/water type"
+  },
+  {
+    "prompt": "What's the type of kricketot?",
+    "answer": "The type of kricketot is bug"
+  },
+  {
+    "prompt": "What's the type of kricketune?",
+    "answer": "The type of kricketune is bug"
+  },
+  {
+    "prompt": "What's the type of shinx?",
+    "answer": "The type of shinx is electric"
+  },
+  {
+    "prompt": "What's the type of luxio?",
+    "answer": "The type of luxio is electric"
+  },
+  {
+    "prompt": "What's the type of luxray?",
+    "answer": "The type of luxray is electric"
+  },
+  {
+    "prompt": "What's the type of budew?",
+    "answer": "budew is agrass/poison type"
+  },
+  {
+    "prompt": "What's the type of roserade?",
+    "answer": "roserade is agrass/poison type"
+  },
+  {
+    "prompt": "What's the type of cranidos?",
+    "answer": "The type of cranidos is rock"
+  },
+  {
+    "prompt": "What's the type of rampardos?",
+    "answer": "The type of rampardos is rock"
+  },
+  {
+    "prompt": "What's the type of shieldon?",
+    "answer": "shieldon is arock/steel type"
+  },
+  {
+    "prompt": "What's the type of bastiodon?",
+    "answer": "bastiodon is arock/steel type"
+  },
+  {
+    "prompt": "What's the type of burmy?",
+    "answer": "The type of burmy is bug"
+  },
+  {
+    "prompt": "What's the type of wormadam-plant?",
+    "answer": "wormadam-plant is abug/grass type"
+  },
+  {
+    "prompt": "What's the type of mothim?",
+    "answer": "mothim is abug/flying type"
+  },
+  {
+    "prompt": "What's the type of combee?",
+    "answer": "combee is abug/flying type"
+  },
+  {
+    "prompt": "What's the type of vespiquen?",
+    "answer": "vespiquen is abug/flying type"
+  },
+  {
+    "prompt": "What's the type of pachirisu?",
+    "answer": "The type of pachirisu is electric"
+  },
+  {
+    "prompt": "What's the type of buizel?",
+    "answer": "The type of buizel is water"
+  },
+  {
+    "prompt": "What's the type of floatzel?",
+    "answer": "The type of floatzel is water"
+  },
+  {
+    "prompt": "What's the type of cherubi?",
+    "answer": "The type of cherubi is grass"
+  },
+  {
+    "prompt": "What's the type of cherrim?",
+    "answer": "The type of cherrim is grass"
+  },
+  {
+    "prompt": "What's the type of shellos?",
+    "answer": "The type of shellos is water"
+  },
+  {
+    "prompt": "What's the type of gastrodon?",
+    "answer": "gastrodon is awater/ground type"
+  },
+  {
+    "prompt": "What's the type of ambipom?",
+    "answer": "The type of ambipom is normal"
+  },
+  {
+    "prompt": "What's the type of drifloon?",
+    "answer": "drifloon is aghost/flying type"
+  },
+  {
+    "prompt": "What's the type of drifblim?",
+    "answer": "drifblim is aghost/flying type"
+  },
+  {
+    "prompt": "What's the type of buneary?",
+    "answer": "The type of buneary is normal"
+  },
+  {
+    "prompt": "What's the type of lopunny?",
+    "answer": "The type of lopunny is normal"
+  },
+  {
+    "prompt": "What's the type of mismagius?",
+    "answer": "The type of mismagius is ghost"
+  },
+  {
+    "prompt": "What's the type of honchkrow?",
+    "answer": "honchkrow is adark/flying type"
+  },
+  {
+    "prompt": "What's the type of glameow?",
+    "answer": "The type of glameow is normal"
+  },
+  {
+    "prompt": "What's the type of purugly?",
+    "answer": "The type of purugly is normal"
+  },
+  {
+    "prompt": "What's the type of chingling?",
+    "answer": "The type of chingling is psychic"
+  },
+  {
+    "prompt": "What's the type of stunky?",
+    "answer": "stunky is apoison/dark type"
+  },
+  {
+    "prompt": "What's the type of skuntank?",
+    "answer": "skuntank is apoison/dark type"
+  },
+  {
+    "prompt": "What's the type of bronzor?",
+    "answer": "bronzor is asteel/psychic type"
+  },
+  {
+    "prompt": "What's the type of bronzong?",
+    "answer": "bronzong is asteel/psychic type"
+  },
+  {
+    "prompt": "What's the type of bonsly?",
+    "answer": "The type of bonsly is rock"
+  },
+  {
+    "prompt": "What's the type of mime-jr?",
+    "answer": "mime-jr is apsychic/fairy type"
+  },
+  {
+    "prompt": "What's the type of happiny?",
+    "answer": "The type of happiny is normal"
+  },
+  {
+    "prompt": "What's the type of chatot?",
+    "answer": "chatot is anormal/flying type"
+  },
+  {
+    "prompt": "What's the type of spiritomb?",
+    "answer": "spiritomb is aghost/dark type"
+  },
+  {
+    "prompt": "What's the type of gible?",
+    "answer": "gible is adragon/ground type"
+  },
+  {
+    "prompt": "What's the type of gabite?",
+    "answer": "gabite is adragon/ground type"
+  },
+  {
+    "prompt": "What's the type of garchomp?",
+    "answer": "garchomp is adragon/ground type"
+  },
+  {
+    "prompt": "What's the type of munchlax?",
+    "answer": "The type of munchlax is normal"
+  },
+  {
+    "prompt": "What's the type of riolu?",
+    "answer": "The type of riolu is fighting"
+  },
+  {
+    "prompt": "What's the type of lucario?",
+    "answer": "lucario is afighting/steel type"
+  },
+  {
+    "prompt": "What's the type of hippopotas?",
+    "answer": "The type of hippopotas is ground"
+  },
+  {
+    "prompt": "What's the type of hippowdon?",
+    "answer": "The type of hippowdon is ground"
+  },
+  {
+    "prompt": "What's the type of skorupi?",
+    "answer": "skorupi is apoison/bug type"
+  },
+  {
+    "prompt": "What's the type of drapion?",
+    "answer": "drapion is apoison/dark type"
+  },
+  {
+    "prompt": "What's the type of croagunk?",
+    "answer": "croagunk is apoison/fighting type"
+  },
+  {
+    "prompt": "What's the type of toxicroak?",
+    "answer": "toxicroak is apoison/fighting type"
+  },
+  {
+    "prompt": "What's the type of carnivine?",
+    "answer": "The type of carnivine is grass"
+  },
+  {
+    "prompt": "What's the type of finneon?",
+    "answer": "The type of finneon is water"
+  },
+  {
+    "prompt": "What's the type of lumineon?",
+    "answer": "The type of lumineon is water"
+  },
+  {
+    "prompt": "What's the type of mantyke?",
+    "answer": "mantyke is awater/flying type"
+  },
+  {
+    "prompt": "What's the type of snover?",
+    "answer": "snover is agrass/ice type"
+  },
+  {
+    "prompt": "What's the type of abomasnow?",
+    "answer": "abomasnow is agrass/ice type"
+  },
+  {
+    "prompt": "What's the type of weavile?",
+    "answer": "weavile is adark/ice type"
+  },
+  {
+    "prompt": "What's the type of magnezone?",
+    "answer": "magnezone is aelectric/steel type"
+  },
+  {
+    "prompt": "What's the type of lickilicky?",
+    "answer": "The type of lickilicky is normal"
+  },
+  {
+    "prompt": "What's the type of rhyperior?",
+    "answer": "rhyperior is aground/rock type"
+  },
+  {
+    "prompt": "What's the type of tangrowth?",
+    "answer": "The type of tangrowth is grass"
+  },
+  {
+    "prompt": "What's the type of electivire?",
+    "answer": "The type of electivire is electric"
+  },
+  {
+    "prompt": "What's the type of magmortar?",
+    "answer": "The type of magmortar is fire"
+  },
+  {
+    "prompt": "What's the type of togekiss?",
+    "answer": "togekiss is afairy/flying type"
+  },
+  {
+    "prompt": "What's the type of yanmega?",
+    "answer": "yanmega is abug/flying type"
+  },
+  {
+    "prompt": "What's the type of leafeon?",
+    "answer": "The type of leafeon is grass"
+  },
+  {
+    "prompt": "What's the type of glaceon?",
+    "answer": "The type of glaceon is ice"
+  },
+  {
+    "prompt": "What's the type of gliscor?",
+    "answer": "gliscor is aground/flying type"
+  },
+  {
+    "prompt": "What's the type of mamoswine?",
+    "answer": "mamoswine is aice/ground type"
+  },
+  {
+    "prompt": "What's the type of porygon-z?",
+    "answer": "The type of porygon-z is normal"
+  },
+  {
+    "prompt": "What's the type of gallade?",
+    "answer": "gallade is apsychic/fighting type"
+  },
+  {
+    "prompt": "What's the type of probopass?",
+    "answer": "probopass is arock/steel type"
+  },
+  {
+    "prompt": "What's the type of dusknoir?",
+    "answer": "The type of dusknoir is ghost"
+  },
+  {
+    "prompt": "What's the type of froslass?",
+    "answer": "froslass is aice/ghost type"
+  },
+  {
+    "prompt": "What's the type of rotom?",
+    "answer": "rotom is aelectric/ghost type"
+  },
+  {
+    "prompt": "What's the type of uxie?",
+    "answer": "The type of uxie is psychic"
+  },
+  {
+    "prompt": "What's the type of mesprit?",
+    "answer": "The type of mesprit is psychic"
+  },
+  {
+    "prompt": "What's the type of azelf?",
+    "answer": "The type of azelf is psychic"
+  },
+  {
+    "prompt": "What's the type of dialga?",
+    "answer": "dialga is asteel/dragon type"
+  },
+  {
+    "prompt": "What's the type of palkia?",
+    "answer": "palkia is awater/dragon type"
+  },
+  {
+    "prompt": "What's the type of heatran?",
+    "answer": "heatran is afire/steel type"
+  },
+  {
+    "prompt": "What's the type of regigigas?",
+    "answer": "The type of regigigas is normal"
+  },
+  {
+    "prompt": "What's the type of giratina-altered?",
+    "answer": "giratina-altered is aghost/dragon type"
+  },
+  {
+    "prompt": "What's the type of cresselia?",
+    "answer": "The type of cresselia is psychic"
+  },
+  {
+    "prompt": "What's the type of phione?",
+    "answer": "The type of phione is water"
+  },
+  {
+    "prompt": "What's the type of manaphy?",
+    "answer": "The type of manaphy is water"
+  },
+  {
+    "prompt": "What's the type of darkrai?",
+    "answer": "The type of darkrai is dark"
+  },
+  {
+    "prompt": "What's the type of shaymin-land?",
+    "answer": "The type of shaymin-land is grass"
+  },
+  {
+    "prompt": "What's the type of arceus?",
+    "answer": "The type of arceus is normal"
+  }
+]
+

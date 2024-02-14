@@ -1,0 +1,1975 @@
+[
+  {
+    "prompt": "What is the number of bulbasaur?",
+    "answer": "The number in the pokedex of bulbasaur is 1"
+  },
+  {
+    "prompt": "What is the number of ivysaur?",
+    "answer": "The number in the pokedex of ivysaur is 2"
+  },
+  {
+    "prompt": "What is the number of venusaur?",
+    "answer": "The number in the pokedex of venusaur is 3"
+  },
+  {
+    "prompt": "What is the number of charmander?",
+    "answer": "The number in the pokedex of charmander is 4"
+  },
+  {
+    "prompt": "What is the number of charmeleon?",
+    "answer": "The number in the pokedex of charmeleon is 5"
+  },
+  {
+    "prompt": "What is the number of charizard?",
+    "answer": "The number in the pokedex of charizard is 6"
+  },
+  {
+    "prompt": "What is the number of squirtle?",
+    "answer": "The number in the pokedex of squirtle is 7"
+  },
+  {
+    "prompt": "What is the number of wartortle?",
+    "answer": "The number in the pokedex of wartortle is 8"
+  },
+  {
+    "prompt": "What is the number of blastoise?",
+    "answer": "The number in the pokedex of blastoise is 9"
+  },
+  {
+    "prompt": "What is the number of caterpie?",
+    "answer": "The number in the pokedex of caterpie is 10"
+  },
+  {
+    "prompt": "What is the number of metapod?",
+    "answer": "The number in the pokedex of metapod is 11"
+  },
+  {
+    "prompt": "What is the number of butterfree?",
+    "answer": "The number in the pokedex of butterfree is 12"
+  },
+  {
+    "prompt": "What is the number of weedle?",
+    "answer": "The number in the pokedex of weedle is 13"
+  },
+  {
+    "prompt": "What is the number of kakuna?",
+    "answer": "The number in the pokedex of kakuna is 14"
+  },
+  {
+    "prompt": "What is the number of beedrill?",
+    "answer": "The number in the pokedex of beedrill is 15"
+  },
+  {
+    "prompt": "What is the number of pidgey?",
+    "answer": "The number in the pokedex of pidgey is 16"
+  },
+  {
+    "prompt": "What is the number of pidgeotto?",
+    "answer": "The number in the pokedex of pidgeotto is 17"
+  },
+  {
+    "prompt": "What is the number of pidgeot?",
+    "answer": "The number in the pokedex of pidgeot is 18"
+  },
+  {
+    "prompt": "What is the number of rattata?",
+    "answer": "The number in the pokedex of rattata is 19"
+  },
+  {
+    "prompt": "What is the number of raticate?",
+    "answer": "The number in the pokedex of raticate is 20"
+  },
+  {
+    "prompt": "What is the number of spearow?",
+    "answer": "The number in the pokedex of spearow is 21"
+  },
+  {
+    "prompt": "What is the number of fearow?",
+    "answer": "The number in the pokedex of fearow is 22"
+  },
+  {
+    "prompt": "What is the number of ekans?",
+    "answer": "The number in the pokedex of ekans is 23"
+  },
+  {
+    "prompt": "What is the number of arbok?",
+    "answer": "The number in the pokedex of arbok is 24"
+  },
+  {
+    "prompt": "What is the number of pikachu?",
+    "answer": "The number in the pokedex of pikachu is 25"
+  },
+  {
+    "prompt": "What is the number of raichu?",
+    "answer": "The number in the pokedex of raichu is 26"
+  },
+  {
+    "prompt": "What is the number of sandshrew?",
+    "answer": "The number in the pokedex of sandshrew is 27"
+  },
+  {
+    "prompt": "What is the number of sandslash?",
+    "answer": "The number in the pokedex of sandslash is 28"
+  },
+  {
+    "prompt": "What is the number of nidoran-f?",
+    "answer": "The number in the pokedex of nidoran-f is 29"
+  },
+  {
+    "prompt": "What is the number of nidorina?",
+    "answer": "The number in the pokedex of nidorina is 30"
+  },
+  {
+    "prompt": "What is the number of nidoqueen?",
+    "answer": "The number in the pokedex of nidoqueen is 31"
+  },
+  {
+    "prompt": "What is the number of nidoran-m?",
+    "answer": "The number in the pokedex of nidoran-m is 32"
+  },
+  {
+    "prompt": "What is the number of nidorino?",
+    "answer": "The number in the pokedex of nidorino is 33"
+  },
+  {
+    "prompt": "What is the number of nidoking?",
+    "answer": "The number in the pokedex of nidoking is 34"
+  },
+  {
+    "prompt": "What is the number of clefairy?",
+    "answer": "The number in the pokedex of clefairy is 35"
+  },
+  {
+    "prompt": "What is the number of clefable?",
+    "answer": "The number in the pokedex of clefable is 36"
+  },
+  {
+    "prompt": "What is the number of vulpix?",
+    "answer": "The number in the pokedex of vulpix is 37"
+  },
+  {
+    "prompt": "What is the number of ninetales?",
+    "answer": "The number in the pokedex of ninetales is 38"
+  },
+  {
+    "prompt": "What is the number of jigglypuff?",
+    "answer": "The number in the pokedex of jigglypuff is 39"
+  },
+  {
+    "prompt": "What is the number of wigglytuff?",
+    "answer": "The number in the pokedex of wigglytuff is 40"
+  },
+  {
+    "prompt": "What is the number of zubat?",
+    "answer": "The number in the pokedex of zubat is 41"
+  },
+  {
+    "prompt": "What is the number of golbat?",
+    "answer": "The number in the pokedex of golbat is 42"
+  },
+  {
+    "prompt": "What is the number of oddish?",
+    "answer": "The number in the pokedex of oddish is 43"
+  },
+  {
+    "prompt": "What is the number of gloom?",
+    "answer": "The number in the pokedex of gloom is 44"
+  },
+  {
+    "prompt": "What is the number of vileplume?",
+    "answer": "The number in the pokedex of vileplume is 45"
+  },
+  {
+    "prompt": "What is the number of paras?",
+    "answer": "The number in the pokedex of paras is 46"
+  },
+  {
+    "prompt": "What is the number of parasect?",
+    "answer": "The number in the pokedex of parasect is 47"
+  },
+  {
+    "prompt": "What is the number of venonat?",
+    "answer": "The number in the pokedex of venonat is 48"
+  },
+  {
+    "prompt": "What is the number of venomoth?",
+    "answer": "The number in the pokedex of venomoth is 49"
+  },
+  {
+    "prompt": "What is the number of diglett?",
+    "answer": "The number in the pokedex of diglett is 50"
+  },
+  {
+    "prompt": "What is the number of dugtrio?",
+    "answer": "The number in the pokedex of dugtrio is 51"
+  },
+  {
+    "prompt": "What is the number of meowth?",
+    "answer": "The number in the pokedex of meowth is 52"
+  },
+  {
+    "prompt": "What is the number of persian?",
+    "answer": "The number in the pokedex of persian is 53"
+  },
+  {
+    "prompt": "What is the number of psyduck?",
+    "answer": "The number in the pokedex of psyduck is 54"
+  },
+  {
+    "prompt": "What is the number of golduck?",
+    "answer": "The number in the pokedex of golduck is 55"
+  },
+  {
+    "prompt": "What is the number of mankey?",
+    "answer": "The number in the pokedex of mankey is 56"
+  },
+  {
+    "prompt": "What is the number of primeape?",
+    "answer": "The number in the pokedex of primeape is 57"
+  },
+  {
+    "prompt": "What is the number of growlithe?",
+    "answer": "The number in the pokedex of growlithe is 58"
+  },
+  {
+    "prompt": "What is the number of arcanine?",
+    "answer": "The number in the pokedex of arcanine is 59"
+  },
+  {
+    "prompt": "What is the number of poliwag?",
+    "answer": "The number in the pokedex of poliwag is 60"
+  },
+  {
+    "prompt": "What is the number of poliwhirl?",
+    "answer": "The number in the pokedex of poliwhirl is 61"
+  },
+  {
+    "prompt": "What is the number of poliwrath?",
+    "answer": "The number in the pokedex of poliwrath is 62"
+  },
+  {
+    "prompt": "What is the number of abra?",
+    "answer": "The number in the pokedex of abra is 63"
+  },
+  {
+    "prompt": "What is the number of kadabra?",
+    "answer": "The number in the pokedex of kadabra is 64"
+  },
+  {
+    "prompt": "What is the number of alakazam?",
+    "answer": "The number in the pokedex of alakazam is 65"
+  },
+  {
+    "prompt": "What is the number of machop?",
+    "answer": "The number in the pokedex of machop is 66"
+  },
+  {
+    "prompt": "What is the number of machoke?",
+    "answer": "The number in the pokedex of machoke is 67"
+  },
+  {
+    "prompt": "What is the number of machamp?",
+    "answer": "The number in the pokedex of machamp is 68"
+  },
+  {
+    "prompt": "What is the number of bellsprout?",
+    "answer": "The number in the pokedex of bellsprout is 69"
+  },
+  {
+    "prompt": "What is the number of weepinbell?",
+    "answer": "The number in the pokedex of weepinbell is 70"
+  },
+  {
+    "prompt": "What is the number of victreebel?",
+    "answer": "The number in the pokedex of victreebel is 71"
+  },
+  {
+    "prompt": "What is the number of tentacool?",
+    "answer": "The number in the pokedex of tentacool is 72"
+  },
+  {
+    "prompt": "What is the number of tentacruel?",
+    "answer": "The number in the pokedex of tentacruel is 73"
+  },
+  {
+    "prompt": "What is the number of geodude?",
+    "answer": "The number in the pokedex of geodude is 74"
+  },
+  {
+    "prompt": "What is the number of graveler?",
+    "answer": "The number in the pokedex of graveler is 75"
+  },
+  {
+    "prompt": "What is the number of golem?",
+    "answer": "The number in the pokedex of golem is 76"
+  },
+  {
+    "prompt": "What is the number of ponyta?",
+    "answer": "The number in the pokedex of ponyta is 77"
+  },
+  {
+    "prompt": "What is the number of rapidash?",
+    "answer": "The number in the pokedex of rapidash is 78"
+  },
+  {
+    "prompt": "What is the number of slowpoke?",
+    "answer": "The number in the pokedex of slowpoke is 79"
+  },
+  {
+    "prompt": "What is the number of slowbro?",
+    "answer": "The number in the pokedex of slowbro is 80"
+  },
+  {
+    "prompt": "What is the number of magnemite?",
+    "answer": "The number in the pokedex of magnemite is 81"
+  },
+  {
+    "prompt": "What is the number of magneton?",
+    "answer": "The number in the pokedex of magneton is 82"
+  },
+  {
+    "prompt": "What is the number of farfetchd?",
+    "answer": "The number in the pokedex of farfetchd is 83"
+  },
+  {
+    "prompt": "What is the number of doduo?",
+    "answer": "The number in the pokedex of doduo is 84"
+  },
+  {
+    "prompt": "What is the number of dodrio?",
+    "answer": "The number in the pokedex of dodrio is 85"
+  },
+  {
+    "prompt": "What is the number of seel?",
+    "answer": "The number in the pokedex of seel is 86"
+  },
+  {
+    "prompt": "What is the number of dewgong?",
+    "answer": "The number in the pokedex of dewgong is 87"
+  },
+  {
+    "prompt": "What is the number of grimer?",
+    "answer": "The number in the pokedex of grimer is 88"
+  },
+  {
+    "prompt": "What is the number of muk?",
+    "answer": "The number in the pokedex of muk is 89"
+  },
+  {
+    "prompt": "What is the number of shellder?",
+    "answer": "The number in the pokedex of shellder is 90"
+  },
+  {
+    "prompt": "What is the number of cloyster?",
+    "answer": "The number in the pokedex of cloyster is 91"
+  },
+  {
+    "prompt": "What is the number of gastly?",
+    "answer": "The number in the pokedex of gastly is 92"
+  },
+  {
+    "prompt": "What is the number of haunter?",
+    "answer": "The number in the pokedex of haunter is 93"
+  },
+  {
+    "prompt": "What is the number of gengar?",
+    "answer": "The number in the pokedex of gengar is 94"
+  },
+  {
+    "prompt": "What is the number of onix?",
+    "answer": "The number in the pokedex of onix is 95"
+  },
+  {
+    "prompt": "What is the number of drowzee?",
+    "answer": "The number in the pokedex of drowzee is 96"
+  },
+  {
+    "prompt": "What is the number of hypno?",
+    "answer": "The number in the pokedex of hypno is 97"
+  },
+  {
+    "prompt": "What is the number of krabby?",
+    "answer": "The number in the pokedex of krabby is 98"
+  },
+  {
+    "prompt": "What is the number of kingler?",
+    "answer": "The number in the pokedex of kingler is 99"
+  },
+  {
+    "prompt": "What is the number of voltorb?",
+    "answer": "The number in the pokedex of voltorb is 100"
+  },
+  {
+    "prompt": "What is the number of electrode?",
+    "answer": "The number in the pokedex of electrode is 101"
+  },
+  {
+    "prompt": "What is the number of exeggcute?",
+    "answer": "The number in the pokedex of exeggcute is 102"
+  },
+  {
+    "prompt": "What is the number of exeggutor?",
+    "answer": "The number in the pokedex of exeggutor is 103"
+  },
+  {
+    "prompt": "What is the number of cubone?",
+    "answer": "The number in the pokedex of cubone is 104"
+  },
+  {
+    "prompt": "What is the number of marowak?",
+    "answer": "The number in the pokedex of marowak is 105"
+  },
+  {
+    "prompt": "What is the number of hitmonlee?",
+    "answer": "The number in the pokedex of hitmonlee is 106"
+  },
+  {
+    "prompt": "What is the number of hitmonchan?",
+    "answer": "The number in the pokedex of hitmonchan is 107"
+  },
+  {
+    "prompt": "What is the number of lickitung?",
+    "answer": "The number in the pokedex of lickitung is 108"
+  },
+  {
+    "prompt": "What is the number of koffing?",
+    "answer": "The number in the pokedex of koffing is 109"
+  },
+  {
+    "prompt": "What is the number of weezing?",
+    "answer": "The number in the pokedex of weezing is 110"
+  },
+  {
+    "prompt": "What is the number of rhyhorn?",
+    "answer": "The number in the pokedex of rhyhorn is 111"
+  },
+  {
+    "prompt": "What is the number of rhydon?",
+    "answer": "The number in the pokedex of rhydon is 112"
+  },
+  {
+    "prompt": "What is the number of chansey?",
+    "answer": "The number in the pokedex of chansey is 113"
+  },
+  {
+    "prompt": "What is the number of tangela?",
+    "answer": "The number in the pokedex of tangela is 114"
+  },
+  {
+    "prompt": "What is the number of kangaskhan?",
+    "answer": "The number in the pokedex of kangaskhan is 115"
+  },
+  {
+    "prompt": "What is the number of horsea?",
+    "answer": "The number in the pokedex of horsea is 116"
+  },
+  {
+    "prompt": "What is the number of seadra?",
+    "answer": "The number in the pokedex of seadra is 117"
+  },
+  {
+    "prompt": "What is the number of goldeen?",
+    "answer": "The number in the pokedex of goldeen is 118"
+  },
+  {
+    "prompt": "What is the number of seaking?",
+    "answer": "The number in the pokedex of seaking is 119"
+  },
+  {
+    "prompt": "What is the number of staryu?",
+    "answer": "The number in the pokedex of staryu is 120"
+  },
+  {
+    "prompt": "What is the number of starmie?",
+    "answer": "The number in the pokedex of starmie is 121"
+  },
+  {
+    "prompt": "What is the number of mr-mime?",
+    "answer": "The number in the pokedex of mr-mime is 122"
+  },
+  {
+    "prompt": "What is the number of scyther?",
+    "answer": "The number in the pokedex of scyther is 123"
+  },
+  {
+    "prompt": "What is the number of jynx?",
+    "answer": "The number in the pokedex of jynx is 124"
+  },
+  {
+    "prompt": "What is the number of electabuzz?",
+    "answer": "The number in the pokedex of electabuzz is 125"
+  },
+  {
+    "prompt": "What is the number of magmar?",
+    "answer": "The number in the pokedex of magmar is 126"
+  },
+  {
+    "prompt": "What is the number of pinsir?",
+    "answer": "The number in the pokedex of pinsir is 127"
+  },
+  {
+    "prompt": "What is the number of tauros?",
+    "answer": "The number in the pokedex of tauros is 128"
+  },
+  {
+    "prompt": "What is the number of magikarp?",
+    "answer": "The number in the pokedex of magikarp is 129"
+  },
+  {
+    "prompt": "What is the number of gyarados?",
+    "answer": "The number in the pokedex of gyarados is 130"
+  },
+  {
+    "prompt": "What is the number of lapras?",
+    "answer": "The number in the pokedex of lapras is 131"
+  },
+  {
+    "prompt": "What is the number of ditto?",
+    "answer": "The number in the pokedex of ditto is 132"
+  },
+  {
+    "prompt": "What is the number of eevee?",
+    "answer": "The number in the pokedex of eevee is 133"
+  },
+  {
+    "prompt": "What is the number of vaporeon?",
+    "answer": "The number in the pokedex of vaporeon is 134"
+  },
+  {
+    "prompt": "What is the number of jolteon?",
+    "answer": "The number in the pokedex of jolteon is 135"
+  },
+  {
+    "prompt": "What is the number of flareon?",
+    "answer": "The number in the pokedex of flareon is 136"
+  },
+  {
+    "prompt": "What is the number of porygon?",
+    "answer": "The number in the pokedex of porygon is 137"
+  },
+  {
+    "prompt": "What is the number of omanyte?",
+    "answer": "The number in the pokedex of omanyte is 138"
+  },
+  {
+    "prompt": "What is the number of omastar?",
+    "answer": "The number in the pokedex of omastar is 139"
+  },
+  {
+    "prompt": "What is the number of kabuto?",
+    "answer": "The number in the pokedex of kabuto is 140"
+  },
+  {
+    "prompt": "What is the number of kabutops?",
+    "answer": "The number in the pokedex of kabutops is 141"
+  },
+  {
+    "prompt": "What is the number of aerodactyl?",
+    "answer": "The number in the pokedex of aerodactyl is 142"
+  },
+  {
+    "prompt": "What is the number of snorlax?",
+    "answer": "The number in the pokedex of snorlax is 143"
+  },
+  {
+    "prompt": "What is the number of articuno?",
+    "answer": "The number in the pokedex of articuno is 144"
+  },
+  {
+    "prompt": "What is the number of zapdos?",
+    "answer": "The number in the pokedex of zapdos is 145"
+  },
+  {
+    "prompt": "What is the number of moltres?",
+    "answer": "The number in the pokedex of moltres is 146"
+  },
+  {
+    "prompt": "What is the number of dratini?",
+    "answer": "The number in the pokedex of dratini is 147"
+  },
+  {
+    "prompt": "What is the number of dragonair?",
+    "answer": "The number in the pokedex of dragonair is 148"
+  },
+  {
+    "prompt": "What is the number of dragonite?",
+    "answer": "The number in the pokedex of dragonite is 149"
+  },
+  {
+    "prompt": "What is the number of mewtwo?",
+    "answer": "The number in the pokedex of mewtwo is 150"
+  },
+  {
+    "prompt": "What is the number of mew?",
+    "answer": "The number in the pokedex of mew is 151"
+  },
+  {
+    "prompt": "What is the number of chikorita?",
+    "answer": "The number in the pokedex of chikorita is 152"
+  },
+  {
+    "prompt": "What is the number of bayleef?",
+    "answer": "The number in the pokedex of bayleef is 153"
+  },
+  {
+    "prompt": "What is the number of meganium?",
+    "answer": "The number in the pokedex of meganium is 154"
+  },
+  {
+    "prompt": "What is the number of cyndaquil?",
+    "answer": "The number in the pokedex of cyndaquil is 155"
+  },
+  {
+    "prompt": "What is the number of quilava?",
+    "answer": "The number in the pokedex of quilava is 156"
+  },
+  {
+    "prompt": "What is the number of typhlosion?",
+    "answer": "The number in the pokedex of typhlosion is 157"
+  },
+  {
+    "prompt": "What is the number of totodile?",
+    "answer": "The number in the pokedex of totodile is 158"
+  },
+  {
+    "prompt": "What is the number of croconaw?",
+    "answer": "The number in the pokedex of croconaw is 159"
+  },
+  {
+    "prompt": "What is the number of feraligatr?",
+    "answer": "The number in the pokedex of feraligatr is 160"
+  },
+  {
+    "prompt": "What is the number of sentret?",
+    "answer": "The number in the pokedex of sentret is 161"
+  },
+  {
+    "prompt": "What is the number of furret?",
+    "answer": "The number in the pokedex of furret is 162"
+  },
+  {
+    "prompt": "What is the number of hoothoot?",
+    "answer": "The number in the pokedex of hoothoot is 163"
+  },
+  {
+    "prompt": "What is the number of noctowl?",
+    "answer": "The number in the pokedex of noctowl is 164"
+  },
+  {
+    "prompt": "What is the number of ledyba?",
+    "answer": "The number in the pokedex of ledyba is 165"
+  },
+  {
+    "prompt": "What is the number of ledian?",
+    "answer": "The number in the pokedex of ledian is 166"
+  },
+  {
+    "prompt": "What is the number of spinarak?",
+    "answer": "The number in the pokedex of spinarak is 167"
+  },
+  {
+    "prompt": "What is the number of ariados?",
+    "answer": "The number in the pokedex of ariados is 168"
+  },
+  {
+    "prompt": "What is the number of crobat?",
+    "answer": "The number in the pokedex of crobat is 169"
+  },
+  {
+    "prompt": "What is the number of chinchou?",
+    "answer": "The number in the pokedex of chinchou is 170"
+  },
+  {
+    "prompt": "What is the number of lanturn?",
+    "answer": "The number in the pokedex of lanturn is 171"
+  },
+  {
+    "prompt": "What is the number of pichu?",
+    "answer": "The number in the pokedex of pichu is 172"
+  },
+  {
+    "prompt": "What is the number of cleffa?",
+    "answer": "The number in the pokedex of cleffa is 173"
+  },
+  {
+    "prompt": "What is the number of igglybuff?",
+    "answer": "The number in the pokedex of igglybuff is 174"
+  },
+  {
+    "prompt": "What is the number of togepi?",
+    "answer": "The number in the pokedex of togepi is 175"
+  },
+  {
+    "prompt": "What is the number of togetic?",
+    "answer": "The number in the pokedex of togetic is 176"
+  },
+  {
+    "prompt": "What is the number of natu?",
+    "answer": "The number in the pokedex of natu is 177"
+  },
+  {
+    "prompt": "What is the number of xatu?",
+    "answer": "The number in the pokedex of xatu is 178"
+  },
+  {
+    "prompt": "What is the number of mareep?",
+    "answer": "The number in the pokedex of mareep is 179"
+  },
+  {
+    "prompt": "What is the number of flaaffy?",
+    "answer": "The number in the pokedex of flaaffy is 180"
+  },
+  {
+    "prompt": "What is the number of ampharos?",
+    "answer": "The number in the pokedex of ampharos is 181"
+  },
+  {
+    "prompt": "What is the number of bellossom?",
+    "answer": "The number in the pokedex of bellossom is 182"
+  },
+  {
+    "prompt": "What is the number of marill?",
+    "answer": "The number in the pokedex of marill is 183"
+  },
+  {
+    "prompt": "What is the number of azumarill?",
+    "answer": "The number in the pokedex of azumarill is 184"
+  },
+  {
+    "prompt": "What is the number of sudowoodo?",
+    "answer": "The number in the pokedex of sudowoodo is 185"
+  },
+  {
+    "prompt": "What is the number of politoed?",
+    "answer": "The number in the pokedex of politoed is 186"
+  },
+  {
+    "prompt": "What is the number of hoppip?",
+    "answer": "The number in the pokedex of hoppip is 187"
+  },
+  {
+    "prompt": "What is the number of skiploom?",
+    "answer": "The number in the pokedex of skiploom is 188"
+  },
+  {
+    "prompt": "What is the number of jumpluff?",
+    "answer": "The number in the pokedex of jumpluff is 189"
+  },
+  {
+    "prompt": "What is the number of aipom?",
+    "answer": "The number in the pokedex of aipom is 190"
+  },
+  {
+    "prompt": "What is the number of sunkern?",
+    "answer": "The number in the pokedex of sunkern is 191"
+  },
+  {
+    "prompt": "What is the number of sunflora?",
+    "answer": "The number in the pokedex of sunflora is 192"
+  },
+  {
+    "prompt": "What is the number of yanma?",
+    "answer": "The number in the pokedex of yanma is 193"
+  },
+  {
+    "prompt": "What is the number of wooper?",
+    "answer": "The number in the pokedex of wooper is 194"
+  },
+  {
+    "prompt": "What is the number of quagsire?",
+    "answer": "The number in the pokedex of quagsire is 195"
+  },
+  {
+    "prompt": "What is the number of espeon?",
+    "answer": "The number in the pokedex of espeon is 196"
+  },
+  {
+    "prompt": "What is the number of umbreon?",
+    "answer": "The number in the pokedex of umbreon is 197"
+  },
+  {
+    "prompt": "What is the number of murkrow?",
+    "answer": "The number in the pokedex of murkrow is 198"
+  },
+  {
+    "prompt": "What is the number of slowking?",
+    "answer": "The number in the pokedex of slowking is 199"
+  },
+  {
+    "prompt": "What is the number of misdreavus?",
+    "answer": "The number in the pokedex of misdreavus is 200"
+  },
+  {
+    "prompt": "What is the number of unown?",
+    "answer": "The number in the pokedex of unown is 201"
+  },
+  {
+    "prompt": "What is the number of wobbuffet?",
+    "answer": "The number in the pokedex of wobbuffet is 202"
+  },
+  {
+    "prompt": "What is the number of girafarig?",
+    "answer": "The number in the pokedex of girafarig is 203"
+  },
+  {
+    "prompt": "What is the number of pineco?",
+    "answer": "The number in the pokedex of pineco is 204"
+  },
+  {
+    "prompt": "What is the number of forretress?",
+    "answer": "The number in the pokedex of forretress is 205"
+  },
+  {
+    "prompt": "What is the number of dunsparce?",
+    "answer": "The number in the pokedex of dunsparce is 206"
+  },
+  {
+    "prompt": "What is the number of gligar?",
+    "answer": "The number in the pokedex of gligar is 207"
+  },
+  {
+    "prompt": "What is the number of steelix?",
+    "answer": "The number in the pokedex of steelix is 208"
+  },
+  {
+    "prompt": "What is the number of snubbull?",
+    "answer": "The number in the pokedex of snubbull is 209"
+  },
+  {
+    "prompt": "What is the number of granbull?",
+    "answer": "The number in the pokedex of granbull is 210"
+  },
+  {
+    "prompt": "What is the number of qwilfish?",
+    "answer": "The number in the pokedex of qwilfish is 211"
+  },
+  {
+    "prompt": "What is the number of scizor?",
+    "answer": "The number in the pokedex of scizor is 212"
+  },
+  {
+    "prompt": "What is the number of shuckle?",
+    "answer": "The number in the pokedex of shuckle is 213"
+  },
+  {
+    "prompt": "What is the number of heracross?",
+    "answer": "The number in the pokedex of heracross is 214"
+  },
+  {
+    "prompt": "What is the number of sneasel?",
+    "answer": "The number in the pokedex of sneasel is 215"
+  },
+  {
+    "prompt": "What is the number of teddiursa?",
+    "answer": "The number in the pokedex of teddiursa is 216"
+  },
+  {
+    "prompt": "What is the number of ursaring?",
+    "answer": "The number in the pokedex of ursaring is 217"
+  },
+  {
+    "prompt": "What is the number of slugma?",
+    "answer": "The number in the pokedex of slugma is 218"
+  },
+  {
+    "prompt": "What is the number of magcargo?",
+    "answer": "The number in the pokedex of magcargo is 219"
+  },
+  {
+    "prompt": "What is the number of swinub?",
+    "answer": "The number in the pokedex of swinub is 220"
+  },
+  {
+    "prompt": "What is the number of piloswine?",
+    "answer": "The number in the pokedex of piloswine is 221"
+  },
+  {
+    "prompt": "What is the number of corsola?",
+    "answer": "The number in the pokedex of corsola is 222"
+  },
+  {
+    "prompt": "What is the number of remoraid?",
+    "answer": "The number in the pokedex of remoraid is 223"
+  },
+  {
+    "prompt": "What is the number of octillery?",
+    "answer": "The number in the pokedex of octillery is 224"
+  },
+  {
+    "prompt": "What is the number of delibird?",
+    "answer": "The number in the pokedex of delibird is 225"
+  },
+  {
+    "prompt": "What is the number of mantine?",
+    "answer": "The number in the pokedex of mantine is 226"
+  },
+  {
+    "prompt": "What is the number of skarmory?",
+    "answer": "The number in the pokedex of skarmory is 227"
+  },
+  {
+    "prompt": "What is the number of houndour?",
+    "answer": "The number in the pokedex of houndour is 228"
+  },
+  {
+    "prompt": "What is the number of houndoom?",
+    "answer": "The number in the pokedex of houndoom is 229"
+  },
+  {
+    "prompt": "What is the number of kingdra?",
+    "answer": "The number in the pokedex of kingdra is 230"
+  },
+  {
+    "prompt": "What is the number of phanpy?",
+    "answer": "The number in the pokedex of phanpy is 231"
+  },
+  {
+    "prompt": "What is the number of donphan?",
+    "answer": "The number in the pokedex of donphan is 232"
+  },
+  {
+    "prompt": "What is the number of porygon2?",
+    "answer": "The number in the pokedex of porygon2 is 233"
+  },
+  {
+    "prompt": "What is the number of stantler?",
+    "answer": "The number in the pokedex of stantler is 234"
+  },
+  {
+    "prompt": "What is the number of smeargle?",
+    "answer": "The number in the pokedex of smeargle is 235"
+  },
+  {
+    "prompt": "What is the number of tyrogue?",
+    "answer": "The number in the pokedex of tyrogue is 236"
+  },
+  {
+    "prompt": "What is the number of hitmontop?",
+    "answer": "The number in the pokedex of hitmontop is 237"
+  },
+  {
+    "prompt": "What is the number of smoochum?",
+    "answer": "The number in the pokedex of smoochum is 238"
+  },
+  {
+    "prompt": "What is the number of elekid?",
+    "answer": "The number in the pokedex of elekid is 239"
+  },
+  {
+    "prompt": "What is the number of magby?",
+    "answer": "The number in the pokedex of magby is 240"
+  },
+  {
+    "prompt": "What is the number of miltank?",
+    "answer": "The number in the pokedex of miltank is 241"
+  },
+  {
+    "prompt": "What is the number of blissey?",
+    "answer": "The number in the pokedex of blissey is 242"
+  },
+  {
+    "prompt": "What is the number of raikou?",
+    "answer": "The number in the pokedex of raikou is 243"
+  },
+  {
+    "prompt": "What is the number of entei?",
+    "answer": "The number in the pokedex of entei is 244"
+  },
+  {
+    "prompt": "What is the number of suicune?",
+    "answer": "The number in the pokedex of suicune is 245"
+  },
+  {
+    "prompt": "What is the number of larvitar?",
+    "answer": "The number in the pokedex of larvitar is 246"
+  },
+  {
+    "prompt": "What is the number of pupitar?",
+    "answer": "The number in the pokedex of pupitar is 247"
+  },
+  {
+    "prompt": "What is the number of tyranitar?",
+    "answer": "The number in the pokedex of tyranitar is 248"
+  },
+  {
+    "prompt": "What is the number of lugia?",
+    "answer": "The number in the pokedex of lugia is 249"
+  },
+  {
+    "prompt": "What is the number of ho-oh?",
+    "answer": "The number in the pokedex of ho-oh is 250"
+  },
+  {
+    "prompt": "What is the number of celebi?",
+    "answer": "The number in the pokedex of celebi is 251"
+  },
+  {
+    "prompt": "What is the number of treecko?",
+    "answer": "The number in the pokedex of treecko is 252"
+  },
+  {
+    "prompt": "What is the number of grovyle?",
+    "answer": "The number in the pokedex of grovyle is 253"
+  },
+  {
+    "prompt": "What is the number of sceptile?",
+    "answer": "The number in the pokedex of sceptile is 254"
+  },
+  {
+    "prompt": "What is the number of torchic?",
+    "answer": "The number in the pokedex of torchic is 255"
+  },
+  {
+    "prompt": "What is the number of combusken?",
+    "answer": "The number in the pokedex of combusken is 256"
+  },
+  {
+    "prompt": "What is the number of blaziken?",
+    "answer": "The number in the pokedex of blaziken is 257"
+  },
+  {
+    "prompt": "What is the number of mudkip?",
+    "answer": "The number in the pokedex of mudkip is 258"
+  },
+  {
+    "prompt": "What is the number of marshtomp?",
+    "answer": "The number in the pokedex of marshtomp is 259"
+  },
+  {
+    "prompt": "What is the number of swampert?",
+    "answer": "The number in the pokedex of swampert is 260"
+  },
+  {
+    "prompt": "What is the number of poochyena?",
+    "answer": "The number in the pokedex of poochyena is 261"
+  },
+  {
+    "prompt": "What is the number of mightyena?",
+    "answer": "The number in the pokedex of mightyena is 262"
+  },
+  {
+    "prompt": "What is the number of zigzagoon?",
+    "answer": "The number in the pokedex of zigzagoon is 263"
+  },
+  {
+    "prompt": "What is the number of linoone?",
+    "answer": "The number in the pokedex of linoone is 264"
+  },
+  {
+    "prompt": "What is the number of wurmple?",
+    "answer": "The number in the pokedex of wurmple is 265"
+  },
+  {
+    "prompt": "What is the number of silcoon?",
+    "answer": "The number in the pokedex of silcoon is 266"
+  },
+  {
+    "prompt": "What is the number of beautifly?",
+    "answer": "The number in the pokedex of beautifly is 267"
+  },
+  {
+    "prompt": "What is the number of cascoon?",
+    "answer": "The number in the pokedex of cascoon is 268"
+  },
+  {
+    "prompt": "What is the number of dustox?",
+    "answer": "The number in the pokedex of dustox is 269"
+  },
+  {
+    "prompt": "What is the number of lotad?",
+    "answer": "The number in the pokedex of lotad is 270"
+  },
+  {
+    "prompt": "What is the number of lombre?",
+    "answer": "The number in the pokedex of lombre is 271"
+  },
+  {
+    "prompt": "What is the number of ludicolo?",
+    "answer": "The number in the pokedex of ludicolo is 272"
+  },
+  {
+    "prompt": "What is the number of seedot?",
+    "answer": "The number in the pokedex of seedot is 273"
+  },
+  {
+    "prompt": "What is the number of nuzleaf?",
+    "answer": "The number in the pokedex of nuzleaf is 274"
+  },
+  {
+    "prompt": "What is the number of shiftry?",
+    "answer": "The number in the pokedex of shiftry is 275"
+  },
+  {
+    "prompt": "What is the number of taillow?",
+    "answer": "The number in the pokedex of taillow is 276"
+  },
+  {
+    "prompt": "What is the number of swellow?",
+    "answer": "The number in the pokedex of swellow is 277"
+  },
+  {
+    "prompt": "What is the number of wingull?",
+    "answer": "The number in the pokedex of wingull is 278"
+  },
+  {
+    "prompt": "What is the number of pelipper?",
+    "answer": "The number in the pokedex of pelipper is 279"
+  },
+  {
+    "prompt": "What is the number of ralts?",
+    "answer": "The number in the pokedex of ralts is 280"
+  },
+  {
+    "prompt": "What is the number of kirlia?",
+    "answer": "The number in the pokedex of kirlia is 281"
+  },
+  {
+    "prompt": "What is the number of gardevoir?",
+    "answer": "The number in the pokedex of gardevoir is 282"
+  },
+  {
+    "prompt": "What is the number of surskit?",
+    "answer": "The number in the pokedex of surskit is 283"
+  },
+  {
+    "prompt": "What is the number of masquerain?",
+    "answer": "The number in the pokedex of masquerain is 284"
+  },
+  {
+    "prompt": "What is the number of shroomish?",
+    "answer": "The number in the pokedex of shroomish is 285"
+  },
+  {
+    "prompt": "What is the number of breloom?",
+    "answer": "The number in the pokedex of breloom is 286"
+  },
+  {
+    "prompt": "What is the number of slakoth?",
+    "answer": "The number in the pokedex of slakoth is 287"
+  },
+  {
+    "prompt": "What is the number of vigoroth?",
+    "answer": "The number in the pokedex of vigoroth is 288"
+  },
+  {
+    "prompt": "What is the number of slaking?",
+    "answer": "The number in the pokedex of slaking is 289"
+  },
+  {
+    "prompt": "What is the number of nincada?",
+    "answer": "The number in the pokedex of nincada is 290"
+  },
+  {
+    "prompt": "What is the number of ninjask?",
+    "answer": "The number in the pokedex of ninjask is 291"
+  },
+  {
+    "prompt": "What is the number of shedinja?",
+    "answer": "The number in the pokedex of shedinja is 292"
+  },
+  {
+    "prompt": "What is the number of whismur?",
+    "answer": "The number in the pokedex of whismur is 293"
+  },
+  {
+    "prompt": "What is the number of loudred?",
+    "answer": "The number in the pokedex of loudred is 294"
+  },
+  {
+    "prompt": "What is the number of exploud?",
+    "answer": "The number in the pokedex of exploud is 295"
+  },
+  {
+    "prompt": "What is the number of makuhita?",
+    "answer": "The number in the pokedex of makuhita is 296"
+  },
+  {
+    "prompt": "What is the number of hariyama?",
+    "answer": "The number in the pokedex of hariyama is 297"
+  },
+  {
+    "prompt": "What is the number of azurill?",
+    "answer": "The number in the pokedex of azurill is 298"
+  },
+  {
+    "prompt": "What is the number of nosepass?",
+    "answer": "The number in the pokedex of nosepass is 299"
+  },
+  {
+    "prompt": "What is the number of skitty?",
+    "answer": "The number in the pokedex of skitty is 300"
+  },
+  {
+    "prompt": "What is the number of delcatty?",
+    "answer": "The number in the pokedex of delcatty is 301"
+  },
+  {
+    "prompt": "What is the number of sableye?",
+    "answer": "The number in the pokedex of sableye is 302"
+  },
+  {
+    "prompt": "What is the number of mawile?",
+    "answer": "The number in the pokedex of mawile is 303"
+  },
+  {
+    "prompt": "What is the number of aron?",
+    "answer": "The number in the pokedex of aron is 304"
+  },
+  {
+    "prompt": "What is the number of lairon?",
+    "answer": "The number in the pokedex of lairon is 305"
+  },
+  {
+    "prompt": "What is the number of aggron?",
+    "answer": "The number in the pokedex of aggron is 306"
+  },
+  {
+    "prompt": "What is the number of meditite?",
+    "answer": "The number in the pokedex of meditite is 307"
+  },
+  {
+    "prompt": "What is the number of medicham?",
+    "answer": "The number in the pokedex of medicham is 308"
+  },
+  {
+    "prompt": "What is the number of electrike?",
+    "answer": "The number in the pokedex of electrike is 309"
+  },
+  {
+    "prompt": "What is the number of manectric?",
+    "answer": "The number in the pokedex of manectric is 310"
+  },
+  {
+    "prompt": "What is the number of plusle?",
+    "answer": "The number in the pokedex of plusle is 311"
+  },
+  {
+    "prompt": "What is the number of minun?",
+    "answer": "The number in the pokedex of minun is 312"
+  },
+  {
+    "prompt": "What is the number of volbeat?",
+    "answer": "The number in the pokedex of volbeat is 313"
+  },
+  {
+    "prompt": "What is the number of illumise?",
+    "answer": "The number in the pokedex of illumise is 314"
+  },
+  {
+    "prompt": "What is the number of roselia?",
+    "answer": "The number in the pokedex of roselia is 315"
+  },
+  {
+    "prompt": "What is the number of gulpin?",
+    "answer": "The number in the pokedex of gulpin is 316"
+  },
+  {
+    "prompt": "What is the number of swalot?",
+    "answer": "The number in the pokedex of swalot is 317"
+  },
+  {
+    "prompt": "What is the number of carvanha?",
+    "answer": "The number in the pokedex of carvanha is 318"
+  },
+  {
+    "prompt": "What is the number of sharpedo?",
+    "answer": "The number in the pokedex of sharpedo is 319"
+  },
+  {
+    "prompt": "What is the number of wailmer?",
+    "answer": "The number in the pokedex of wailmer is 320"
+  },
+  {
+    "prompt": "What is the number of wailord?",
+    "answer": "The number in the pokedex of wailord is 321"
+  },
+  {
+    "prompt": "What is the number of numel?",
+    "answer": "The number in the pokedex of numel is 322"
+  },
+  {
+    "prompt": "What is the number of camerupt?",
+    "answer": "The number in the pokedex of camerupt is 323"
+  },
+  {
+    "prompt": "What is the number of torkoal?",
+    "answer": "The number in the pokedex of torkoal is 324"
+  },
+  {
+    "prompt": "What is the number of spoink?",
+    "answer": "The number in the pokedex of spoink is 325"
+  },
+  {
+    "prompt": "What is the number of grumpig?",
+    "answer": "The number in the pokedex of grumpig is 326"
+  },
+  {
+    "prompt": "What is the number of spinda?",
+    "answer": "The number in the pokedex of spinda is 327"
+  },
+  {
+    "prompt": "What is the number of trapinch?",
+    "answer": "The number in the pokedex of trapinch is 328"
+  },
+  {
+    "prompt": "What is the number of vibrava?",
+    "answer": "The number in the pokedex of vibrava is 329"
+  },
+  {
+    "prompt": "What is the number of flygon?",
+    "answer": "The number in the pokedex of flygon is 330"
+  },
+  {
+    "prompt": "What is the number of cacnea?",
+    "answer": "The number in the pokedex of cacnea is 331"
+  },
+  {
+    "prompt": "What is the number of cacturne?",
+    "answer": "The number in the pokedex of cacturne is 332"
+  },
+  {
+    "prompt": "What is the number of swablu?",
+    "answer": "The number in the pokedex of swablu is 333"
+  },
+  {
+    "prompt": "What is the number of altaria?",
+    "answer": "The number in the pokedex of altaria is 334"
+  },
+  {
+    "prompt": "What is the number of zangoose?",
+    "answer": "The number in the pokedex of zangoose is 335"
+  },
+  {
+    "prompt": "What is the number of seviper?",
+    "answer": "The number in the pokedex of seviper is 336"
+  },
+  {
+    "prompt": "What is the number of lunatone?",
+    "answer": "The number in the pokedex of lunatone is 337"
+  },
+  {
+    "prompt": "What is the number of solrock?",
+    "answer": "The number in the pokedex of solrock is 338"
+  },
+  {
+    "prompt": "What is the number of barboach?",
+    "answer": "The number in the pokedex of barboach is 339"
+  },
+  {
+    "prompt": "What is the number of whiscash?",
+    "answer": "The number in the pokedex of whiscash is 340"
+  },
+  {
+    "prompt": "What is the number of corphish?",
+    "answer": "The number in the pokedex of corphish is 341"
+  },
+  {
+    "prompt": "What is the number of crawdaunt?",
+    "answer": "The number in the pokedex of crawdaunt is 342"
+  },
+  {
+    "prompt": "What is the number of baltoy?",
+    "answer": "The number in the pokedex of baltoy is 343"
+  },
+  {
+    "prompt": "What is the number of claydol?",
+    "answer": "The number in the pokedex of claydol is 344"
+  },
+  {
+    "prompt": "What is the number of lileep?",
+    "answer": "The number in the pokedex of lileep is 345"
+  },
+  {
+    "prompt": "What is the number of cradily?",
+    "answer": "The number in the pokedex of cradily is 346"
+  },
+  {
+    "prompt": "What is the number of anorith?",
+    "answer": "The number in the pokedex of anorith is 347"
+  },
+  {
+    "prompt": "What is the number of armaldo?",
+    "answer": "The number in the pokedex of armaldo is 348"
+  },
+  {
+    "prompt": "What is the number of feebas?",
+    "answer": "The number in the pokedex of feebas is 349"
+  },
+  {
+    "prompt": "What is the number of milotic?",
+    "answer": "The number in the pokedex of milotic is 350"
+  },
+  {
+    "prompt": "What is the number of castform?",
+    "answer": "The number in the pokedex of castform is 351"
+  },
+  {
+    "prompt": "What is the number of kecleon?",
+    "answer": "The number in the pokedex of kecleon is 352"
+  },
+  {
+    "prompt": "What is the number of shuppet?",
+    "answer": "The number in the pokedex of shuppet is 353"
+  },
+  {
+    "prompt": "What is the number of banette?",
+    "answer": "The number in the pokedex of banette is 354"
+  },
+  {
+    "prompt": "What is the number of duskull?",
+    "answer": "The number in the pokedex of duskull is 355"
+  },
+  {
+    "prompt": "What is the number of dusclops?",
+    "answer": "The number in the pokedex of dusclops is 356"
+  },
+  {
+    "prompt": "What is the number of tropius?",
+    "answer": "The number in the pokedex of tropius is 357"
+  },
+  {
+    "prompt": "What is the number of chimecho?",
+    "answer": "The number in the pokedex of chimecho is 358"
+  },
+  {
+    "prompt": "What is the number of absol?",
+    "answer": "The number in the pokedex of absol is 359"
+  },
+  {
+    "prompt": "What is the number of wynaut?",
+    "answer": "The number in the pokedex of wynaut is 360"
+  },
+  {
+    "prompt": "What is the number of snorunt?",
+    "answer": "The number in the pokedex of snorunt is 361"
+  },
+  {
+    "prompt": "What is the number of glalie?",
+    "answer": "The number in the pokedex of glalie is 362"
+  },
+  {
+    "prompt": "What is the number of spheal?",
+    "answer": "The number in the pokedex of spheal is 363"
+  },
+  {
+    "prompt": "What is the number of sealeo?",
+    "answer": "The number in the pokedex of sealeo is 364"
+  },
+  {
+    "prompt": "What is the number of walrein?",
+    "answer": "The number in the pokedex of walrein is 365"
+  },
+  {
+    "prompt": "What is the number of clamperl?",
+    "answer": "The number in the pokedex of clamperl is 366"
+  },
+  {
+    "prompt": "What is the number of huntail?",
+    "answer": "The number in the pokedex of huntail is 367"
+  },
+  {
+    "prompt": "What is the number of gorebyss?",
+    "answer": "The number in the pokedex of gorebyss is 368"
+  },
+  {
+    "prompt": "What is the number of relicanth?",
+    "answer": "The number in the pokedex of relicanth is 369"
+  },
+  {
+    "prompt": "What is the number of luvdisc?",
+    "answer": "The number in the pokedex of luvdisc is 370"
+  },
+  {
+    "prompt": "What is the number of bagon?",
+    "answer": "The number in the pokedex of bagon is 371"
+  },
+  {
+    "prompt": "What is the number of shelgon?",
+    "answer": "The number in the pokedex of shelgon is 372"
+  },
+  {
+    "prompt": "What is the number of salamence?",
+    "answer": "The number in the pokedex of salamence is 373"
+  },
+  {
+    "prompt": "What is the number of beldum?",
+    "answer": "The number in the pokedex of beldum is 374"
+  },
+  {
+    "prompt": "What is the number of metang?",
+    "answer": "The number in the pokedex of metang is 375"
+  },
+  {
+    "prompt": "What is the number of metagross?",
+    "answer": "The number in the pokedex of metagross is 376"
+  },
+  {
+    "prompt": "What is the number of regirock?",
+    "answer": "The number in the pokedex of regirock is 377"
+  },
+  {
+    "prompt": "What is the number of regice?",
+    "answer": "The number in the pokedex of regice is 378"
+  },
+  {
+    "prompt": "What is the number of registeel?",
+    "answer": "The number in the pokedex of registeel is 379"
+  },
+  {
+    "prompt": "What is the number of latias?",
+    "answer": "The number in the pokedex of latias is 380"
+  },
+  {
+    "prompt": "What is the number of latios?",
+    "answer": "The number in the pokedex of latios is 381"
+  },
+  {
+    "prompt": "What is the number of kyogre?",
+    "answer": "The number in the pokedex of kyogre is 382"
+  },
+  {
+    "prompt": "What is the number of groudon?",
+    "answer": "The number in the pokedex of groudon is 383"
+  },
+  {
+    "prompt": "What is the number of rayquaza?",
+    "answer": "The number in the pokedex of rayquaza is 384"
+  },
+  {
+    "prompt": "What is the number of jirachi?",
+    "answer": "The number in the pokedex of jirachi is 385"
+  },
+  {
+    "prompt": "What is the number of deoxys-normal?",
+    "answer": "The number in the pokedex of deoxys-normal is 386"
+  },
+  {
+    "prompt": "What is the number of turtwig?",
+    "answer": "The number in the pokedex of turtwig is 387"
+  },
+  {
+    "prompt": "What is the number of grotle?",
+    "answer": "The number in the pokedex of grotle is 388"
+  },
+  {
+    "prompt": "What is the number of torterra?",
+    "answer": "The number in the pokedex of torterra is 389"
+  },
+  {
+    "prompt": "What is the number of chimchar?",
+    "answer": "The number in the pokedex of chimchar is 390"
+  },
+  {
+    "prompt": "What is the number of monferno?",
+    "answer": "The number in the pokedex of monferno is 391"
+  },
+  {
+    "prompt": "What is the number of infernape?",
+    "answer": "The number in the pokedex of infernape is 392"
+  },
+  {
+    "prompt": "What is the number of piplup?",
+    "answer": "The number in the pokedex of piplup is 393"
+  },
+  {
+    "prompt": "What is the number of prinplup?",
+    "answer": "The number in the pokedex of prinplup is 394"
+  },
+  {
+    "prompt": "What is the number of empoleon?",
+    "answer": "The number in the pokedex of empoleon is 395"
+  },
+  {
+    "prompt": "What is the number of starly?",
+    "answer": "The number in the pokedex of starly is 396"
+  },
+  {
+    "prompt": "What is the number of staravia?",
+    "answer": "The number in the pokedex of staravia is 397"
+  },
+  {
+    "prompt": "What is the number of staraptor?",
+    "answer": "The number in the pokedex of staraptor is 398"
+  },
+  {
+    "prompt": "What is the number of bidoof?",
+    "answer": "The number in the pokedex of bidoof is 399"
+  },
+  {
+    "prompt": "What is the number of bibarel?",
+    "answer": "The number in the pokedex of bibarel is 400"
+  },
+  {
+    "prompt": "What is the number of kricketot?",
+    "answer": "The number in the pokedex of kricketot is 401"
+  },
+  {
+    "prompt": "What is the number of kricketune?",
+    "answer": "The number in the pokedex of kricketune is 402"
+  },
+  {
+    "prompt": "What is the number of shinx?",
+    "answer": "The number in the pokedex of shinx is 403"
+  },
+  {
+    "prompt": "What is the number of luxio?",
+    "answer": "The number in the pokedex of luxio is 404"
+  },
+  {
+    "prompt": "What is the number of luxray?",
+    "answer": "The number in the pokedex of luxray is 405"
+  },
+  {
+    "prompt": "What is the number of budew?",
+    "answer": "The number in the pokedex of budew is 406"
+  },
+  {
+    "prompt": "What is the number of roserade?",
+    "answer": "The number in the pokedex of roserade is 407"
+  },
+  {
+    "prompt": "What is the number of cranidos?",
+    "answer": "The number in the pokedex of cranidos is 408"
+  },
+  {
+    "prompt": "What is the number of rampardos?",
+    "answer": "The number in the pokedex of rampardos is 409"
+  },
+  {
+    "prompt": "What is the number of shieldon?",
+    "answer": "The number in the pokedex of shieldon is 410"
+  },
+  {
+    "prompt": "What is the number of bastiodon?",
+    "answer": "The number in the pokedex of bastiodon is 411"
+  },
+  {
+    "prompt": "What is the number of burmy?",
+    "answer": "The number in the pokedex of burmy is 412"
+  },
+  {
+    "prompt": "What is the number of wormadam-plant?",
+    "answer": "The number in the pokedex of wormadam-plant is 413"
+  },
+  {
+    "prompt": "What is the number of mothim?",
+    "answer": "The number in the pokedex of mothim is 414"
+  },
+  {
+    "prompt": "What is the number of combee?",
+    "answer": "The number in the pokedex of combee is 415"
+  },
+  {
+    "prompt": "What is the number of vespiquen?",
+    "answer": "The number in the pokedex of vespiquen is 416"
+  },
+  {
+    "prompt": "What is the number of pachirisu?",
+    "answer": "The number in the pokedex of pachirisu is 417"
+  },
+  {
+    "prompt": "What is the number of buizel?",
+    "answer": "The number in the pokedex of buizel is 418"
+  },
+  {
+    "prompt": "What is the number of floatzel?",
+    "answer": "The number in the pokedex of floatzel is 419"
+  },
+  {
+    "prompt": "What is the number of cherubi?",
+    "answer": "The number in the pokedex of cherubi is 420"
+  },
+  {
+    "prompt": "What is the number of cherrim?",
+    "answer": "The number in the pokedex of cherrim is 421"
+  },
+  {
+    "prompt": "What is the number of shellos?",
+    "answer": "The number in the pokedex of shellos is 422"
+  },
+  {
+    "prompt": "What is the number of gastrodon?",
+    "answer": "The number in the pokedex of gastrodon is 423"
+  },
+  {
+    "prompt": "What is the number of ambipom?",
+    "answer": "The number in the pokedex of ambipom is 424"
+  },
+  {
+    "prompt": "What is the number of drifloon?",
+    "answer": "The number in the pokedex of drifloon is 425"
+  },
+  {
+    "prompt": "What is the number of drifblim?",
+    "answer": "The number in the pokedex of drifblim is 426"
+  },
+  {
+    "prompt": "What is the number of buneary?",
+    "answer": "The number in the pokedex of buneary is 427"
+  },
+  {
+    "prompt": "What is the number of lopunny?",
+    "answer": "The number in the pokedex of lopunny is 428"
+  },
+  {
+    "prompt": "What is the number of mismagius?",
+    "answer": "The number in the pokedex of mismagius is 429"
+  },
+  {
+    "prompt": "What is the number of honchkrow?",
+    "answer": "The number in the pokedex of honchkrow is 430"
+  },
+  {
+    "prompt": "What is the number of glameow?",
+    "answer": "The number in the pokedex of glameow is 431"
+  },
+  {
+    "prompt": "What is the number of purugly?",
+    "answer": "The number in the pokedex of purugly is 432"
+  },
+  {
+    "prompt": "What is the number of chingling?",
+    "answer": "The number in the pokedex of chingling is 433"
+  },
+  {
+    "prompt": "What is the number of stunky?",
+    "answer": "The number in the pokedex of stunky is 434"
+  },
+  {
+    "prompt": "What is the number of skuntank?",
+    "answer": "The number in the pokedex of skuntank is 435"
+  },
+  {
+    "prompt": "What is the number of bronzor?",
+    "answer": "The number in the pokedex of bronzor is 436"
+  },
+  {
+    "prompt": "What is the number of bronzong?",
+    "answer": "The number in the pokedex of bronzong is 437"
+  },
+  {
+    "prompt": "What is the number of bonsly?",
+    "answer": "The number in the pokedex of bonsly is 438"
+  },
+  {
+    "prompt": "What is the number of mime-jr?",
+    "answer": "The number in the pokedex of mime-jr is 439"
+  },
+  {
+    "prompt": "What is the number of happiny?",
+    "answer": "The number in the pokedex of happiny is 440"
+  },
+  {
+    "prompt": "What is the number of chatot?",
+    "answer": "The number in the pokedex of chatot is 441"
+  },
+  {
+    "prompt": "What is the number of spiritomb?",
+    "answer": "The number in the pokedex of spiritomb is 442"
+  },
+  {
+    "prompt": "What is the number of gible?",
+    "answer": "The number in the pokedex of gible is 443"
+  },
+  {
+    "prompt": "What is the number of gabite?",
+    "answer": "The number in the pokedex of gabite is 444"
+  },
+  {
+    "prompt": "What is the number of garchomp?",
+    "answer": "The number in the pokedex of garchomp is 445"
+  },
+  {
+    "prompt": "What is the number of munchlax?",
+    "answer": "The number in the pokedex of munchlax is 446"
+  },
+  {
+    "prompt": "What is the number of riolu?",
+    "answer": "The number in the pokedex of riolu is 447"
+  },
+  {
+    "prompt": "What is the number of lucario?",
+    "answer": "The number in the pokedex of lucario is 448"
+  },
+  {
+    "prompt": "What is the number of hippopotas?",
+    "answer": "The number in the pokedex of hippopotas is 449"
+  },
+  {
+    "prompt": "What is the number of hippowdon?",
+    "answer": "The number in the pokedex of hippowdon is 450"
+  },
+  {
+    "prompt": "What is the number of skorupi?",
+    "answer": "The number in the pokedex of skorupi is 451"
+  },
+  {
+    "prompt": "What is the number of drapion?",
+    "answer": "The number in the pokedex of drapion is 452"
+  },
+  {
+    "prompt": "What is the number of croagunk?",
+    "answer": "The number in the pokedex of croagunk is 453"
+  },
+  {
+    "prompt": "What is the number of toxicroak?",
+    "answer": "The number in the pokedex of toxicroak is 454"
+  },
+  {
+    "prompt": "What is the number of carnivine?",
+    "answer": "The number in the pokedex of carnivine is 455"
+  },
+  {
+    "prompt": "What is the number of finneon?",
+    "answer": "The number in the pokedex of finneon is 456"
+  },
+  {
+    "prompt": "What is the number of lumineon?",
+    "answer": "The number in the pokedex of lumineon is 457"
+  },
+  {
+    "prompt": "What is the number of mantyke?",
+    "answer": "The number in the pokedex of mantyke is 458"
+  },
+  {
+    "prompt": "What is the number of snover?",
+    "answer": "The number in the pokedex of snover is 459"
+  },
+  {
+    "prompt": "What is the number of abomasnow?",
+    "answer": "The number in the pokedex of abomasnow is 460"
+  },
+  {
+    "prompt": "What is the number of weavile?",
+    "answer": "The number in the pokedex of weavile is 461"
+  },
+  {
+    "prompt": "What is the number of magnezone?",
+    "answer": "The number in the pokedex of magnezone is 462"
+  },
+  {
+    "prompt": "What is the number of lickilicky?",
+    "answer": "The number in the pokedex of lickilicky is 463"
+  },
+  {
+    "prompt": "What is the number of rhyperior?",
+    "answer": "The number in the pokedex of rhyperior is 464"
+  },
+  {
+    "prompt": "What is the number of tangrowth?",
+    "answer": "The number in the pokedex of tangrowth is 465"
+  },
+  {
+    "prompt": "What is the number of electivire?",
+    "answer": "The number in the pokedex of electivire is 466"
+  },
+  {
+    "prompt": "What is the number of magmortar?",
+    "answer": "The number in the pokedex of magmortar is 467"
+  },
+  {
+    "prompt": "What is the number of togekiss?",
+    "answer": "The number in the pokedex of togekiss is 468"
+  },
+  {
+    "prompt": "What is the number of yanmega?",
+    "answer": "The number in the pokedex of yanmega is 469"
+  },
+  {
+    "prompt": "What is the number of leafeon?",
+    "answer": "The number in the pokedex of leafeon is 470"
+  },
+  {
+    "prompt": "What is the number of glaceon?",
+    "answer": "The number in the pokedex of glaceon is 471"
+  },
+  {
+    "prompt": "What is the number of gliscor?",
+    "answer": "The number in the pokedex of gliscor is 472"
+  },
+  {
+    "prompt": "What is the number of mamoswine?",
+    "answer": "The number in the pokedex of mamoswine is 473"
+  },
+  {
+    "prompt": "What is the number of porygon-z?",
+    "answer": "The number in the pokedex of porygon-z is 474"
+  },
+  {
+    "prompt": "What is the number of gallade?",
+    "answer": "The number in the pokedex of gallade is 475"
+  },
+  {
+    "prompt": "What is the number of probopass?",
+    "answer": "The number in the pokedex of probopass is 476"
+  },
+  {
+    "prompt": "What is the number of dusknoir?",
+    "answer": "The number in the pokedex of dusknoir is 477"
+  },
+  {
+    "prompt": "What is the number of froslass?",
+    "answer": "The number in the pokedex of froslass is 478"
+  },
+  {
+    "prompt": "What is the number of rotom?",
+    "answer": "The number in the pokedex of rotom is 479"
+  },
+  {
+    "prompt": "What is the number of uxie?",
+    "answer": "The number in the pokedex of uxie is 480"
+  },
+  {
+    "prompt": "What is the number of mesprit?",
+    "answer": "The number in the pokedex of mesprit is 481"
+  },
+  {
+    "prompt": "What is the number of azelf?",
+    "answer": "The number in the pokedex of azelf is 482"
+  },
+  {
+    "prompt": "What is the number of dialga?",
+    "answer": "The number in the pokedex of dialga is 483"
+  },
+  {
+    "prompt": "What is the number of palkia?",
+    "answer": "The number in the pokedex of palkia is 484"
+  },
+  {
+    "prompt": "What is the number of heatran?",
+    "answer": "The number in the pokedex of heatran is 485"
+  },
+  {
+    "prompt": "What is the number of regigigas?",
+    "answer": "The number in the pokedex of regigigas is 486"
+  },
+  {
+    "prompt": "What is the number of giratina-altered?",
+    "answer": "The number in the pokedex of giratina-altered is 487"
+  },
+  {
+    "prompt": "What is the number of cresselia?",
+    "answer": "The number in the pokedex of cresselia is 488"
+  },
+  {
+    "prompt": "What is the number of phione?",
+    "answer": "The number in the pokedex of phione is 489"
+  },
+  {
+    "prompt": "What is the number of manaphy?",
+    "answer": "The number in the pokedex of manaphy is 490"
+  },
+  {
+    "prompt": "What is the number of darkrai?",
+    "answer": "The number in the pokedex of darkrai is 491"
+  },
+  {
+    "prompt": "What is the number of shaymin-land?",
+    "answer": "The number in the pokedex of shaymin-land is 492"
+  },
+  {
+    "prompt": "What is the number of arceus?",
+    "answer": "The number in the pokedex of arceus is 493"
+  }
+]
+
